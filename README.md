@@ -40,18 +40,19 @@ DetNAS: Backbone Search for Object Detection<br>
 Mixup<br>
 
 ## light network
-[Model Rubik's Cube: Twisting Resolution, Depth and Width for TinyNets](https://arxiv.org/abs/2010.14819) -huawei, NeurIPS2020<br>
+TinyNet[Model Rubik's Cube: Twisting Resolution, Depth and Width for TinyNets](https://arxiv.org/abs/2010.14819) -huawei, NeurIPS2020<br>
+[GhostNet: More Features from Cheap Operations](https://arxiv.org/abs/1911.11907) -huawei, CVPR2020<br>
+EfficientNet<br>
 SqueezeNet<br>
 [Mobilenets](https://arxiv.org/abs/1704.04861) -google, arxiv2017<br>
 [MobileNet-V2](https://arxiv.org/abs/1801.04381) -google, CVPR2018 [caffe-code](https://github.com/austingg/MobileNet-v2-caffe)<br>
 MobileNetV3<br>
-EfficientNet<br>
 [NasNet-A-Learning transferable architectures for scalable image recognition](https://arxiv.org/abs/1707.07012) -google brain, CoRR2017<br>
 [ShuffleNet](https://arxiv.org/abs/1707.01083) -megvii, CoRR2017<br>
 ShuffleNetV2<br>
 ThunderNet<br>
 DarkNet/Tiny YOLOv3/Tiny YOLOv2/Yolo-Nano/SlimYOLO/YOLO-LITE/Gaussian YOLOv3<br>
-[LightweightNet: Toward fast and lightweight convolutional neural networks via architecture distillation]() -PR2019<br>
+[LightweightNet: Toward fast and lightweight convolutional neural networks via architecture distillation](https://www.sciencedirect.com/science/article/abs/pii/S0031320318303807) -XuTingbin, PR2019<br>
 Mobilefacenets<br>
 EXTD: Extremely Tiny Face Detector via Iterative Filter Reuse<br>
 Drop an octave: Reducing spatial redundancy in convolutional neural networks with octave convolution<br>
