@@ -40,7 +40,7 @@ DetNAS: Backbone Search for Object Detection<br>
 Mixup<br>
 
 ## light network
-
+[Model Rubik's Cube: Twisting Resolution, Depth and Width for TinyNets](https://arxiv.org/abs/2010.14819) -huawei, NeurIPS2020<br>
 SqueezeNet<br>
 [Mobilenets](https://arxiv.org/abs/1704.04861) -google, arxiv2017<br>
 [MobileNet-V2](https://arxiv.org/abs/1801.04381) -google, CVPR2018 [caffe-code](https://github.com/austingg/MobileNet-v2-caffe)<br>
