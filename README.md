@@ -40,6 +40,7 @@ DetNAS: Backbone Search for Object Detection<br>
 Mixup<br>
 
 ## light network
+
 SqueezeNet<br>
 [Mobilenets](https://arxiv.org/abs/1704.04861) -google, arxiv2017<br>
 [MobileNet-V2](https://arxiv.org/abs/1801.04381) -google, CVPR2018 [caffe-code](https://github.com/austingg/MobileNet-v2-caffe)<br>
