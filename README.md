@@ -2,16 +2,20 @@
 ## mathematical expression recognition
   [ICFHR 2020 Competition on Offline Recognition and Spotting of Handwritten Mathematical Expressions - OffRaSHME](https://ieeexplore.ieee.org/abstract/document/9257745) -Wangdahan, ICFHR2020<br>
   [Improvement of End-to-End Offline Handwritten Mathematical Expression Recognition by Weakly Supervised Learning](https://ieeexplore.ieee.org/abstract/document/9257749) -ICFHR2020<br>
+  [Improving Attention-Based Handwritten Mathematical Expression Recognition with Scale Augmentation and Drop Attention](https://ieeexplore.ieee.org/abstract/document/9257765) -ICFHR2020<br>
+  [EDSL: An Encoder-Decoder Architecture with Symbol-Level Features for Printed Mathematical Expression Recognition](https://arxiv.org/abs/2007.02517) -arxiv2020<br>
   [Handwritten mathematical expression recognition via paired adversarial learning](https://link.springer.com/article/10.1007%2Fs11263-020-01291-5) -WuJinwen, IJCV2020<br>
   [Stroke Constrained Attention Network for Online Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2002.08670) -DuJun, arxiv2020<br>
   [SRD: A Tree Structure Based Decoder for Online Handwritten Mathematical Expression Recognition](https://ieeexplore.ieee.org/abstract/document/9147045/) -DuJun, TMM2020<br>
   [Multi-modal Attention Network for Handwritten Mathematical Expression Recognition](https://ieeexplore.ieee.org/abstract/document/8978103/) -DuJun, ICDAR2019<br>
+  [Robust Encoder-Decoder Learning Framework towards Offline Handwritten Mathematical Expression Recognition Based on Multi-Scale Deep Neural Network](https://arxiv.org/abs/1902.05376)-arxiv2019<br>
   [Track, attend, and parse (tap): An end-to-end framework for online handwritten mathematical expression recognition](https://ieeexplore.ieee.org/abstract/document/8373726) -DuJun, TMM2018<br>
   [Multi-scale attention with dense encoder for handwritten mathematical expression recognition](https://ieeexplore.ieee.org/abstract/document/8546031) -DuJun, ICPR2018<br>
   [Watch, attend and parse: An end-to-end neural network based approach to handwritten mathematical expression recognition](https://www.sciencedirect.com/science/article/pii/S0031320317302376) -J Zhang, J Du, S Zhang, D Liu, Y Hu, J Hu, S Wei, PR2017<br>
   [A GRU-Based Encoder-Decoder Approach with Attention for Online Handwritten Mathematical Expression Recognition](https://ieeexplore.ieee.org/abstract/document/8270083) -Dujun, ICDAR2017<br>
   [Context-aware mathematical expression recognition: An end-to-end framework and a benchmark](https://ieeexplore.ieee.org/abstract/document/7900135) -Hewenhao, ICPR<br>
   [ICFHR2016 CROHME: Competition on Recognition of Online Handwritten Mathematical Expressions](https://ieeexplore.ieee.org/abstract/document/7814132) -ICFHR2016<br>
+  [An integrated grammar-based approach for mathematical expression recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320315003441) -PR2016<br>
 ## word_vector
   [Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)--FAIR, arxiv2016<br>
   [fastText-Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)-FAIR, arxiv2016<br>
