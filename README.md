@@ -1,5 +1,7 @@
 # Papers
 ## mathematical expression recognition
+  [ICFHR 2020 Competition on Offline Recognition and Spotting of Handwritten Mathematical Expressions - OffRaSHME](https://ieeexplore.ieee.org/abstract/document/9257745) -Wangdahan, ICFHR2020<br>
+  [Improvement of End-to-End Offline Handwritten Mathematical Expression Recognition by Weakly Supervised Learning](https://ieeexplore.ieee.org/abstract/document/9257749) -ICFHR2020<br>
   [Handwritten mathematical expression recognition via paired adversarial learning](https://link.springer.com/article/10.1007%2Fs11263-020-01291-5) -WuJinwen, IJCV2020<br>
   [Stroke Constrained Attention Network for Online Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2002.08670) -DuJun, arxiv2020<br>
   [SRD: A Tree Structure Based Decoder for Online Handwritten Mathematical Expression Recognition](https://ieeexplore.ieee.org/abstract/document/9147045/) -DuJun, TMM2020<br>
@@ -9,6 +11,7 @@
   [Watch, attend and parse: An end-to-end neural network based approach to handwritten mathematical expression recognition](https://www.sciencedirect.com/science/article/pii/S0031320317302376) -J Zhang, J Du, S Zhang, D Liu, Y Hu, J Hu, S Wei, PR2017<br>
   [A GRU-Based Encoder-Decoder Approach with Attention for Online Handwritten Mathematical Expression Recognition](https://ieeexplore.ieee.org/abstract/document/8270083) -Dujun, ICDAR2017<br>
   [Context-aware mathematical expression recognition: An end-to-end framework and a benchmark](https://ieeexplore.ieee.org/abstract/document/7900135) -Hewenhao, ICPR<br>
+  [ICFHR2016 CROHME: Competition on Recognition of Online Handwritten Mathematical Expressions](https://ieeexplore.ieee.org/abstract/document/7814132) -ICFHR2016<br>
 ## word_vector
   [Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)--FAIR, arxiv2016<br>
   [fastText-Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)-FAIR, arxiv2016<br>
