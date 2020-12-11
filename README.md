@@ -14,7 +14,8 @@
   [Multi-scale attention with dense encoder for handwritten mathematical expression recognition](https://ieeexplore.ieee.org/abstract/document/8546031) -DuJun, ICPR2018, [code](https://github.com/JianshuZhang/WAP)<br>
   [Watch, attend and parse: An end-to-end neural network based approach to handwritten mathematical expression recognition](https://www.sciencedirect.com/science/article/pii/S0031320317302376) -J Zhang, J Du, S Zhang, D Liu, Y Hu, J Hu, S Wei, PR2017, [code](https://github.com/JianshuZhang/WAP)<br>
   [A GRU-Based Encoder-Decoder Approach with Attention for Online Handwritten Mathematical Expression Recognition](https://ieeexplore.ieee.org/abstract/document/8270083) -Dujun, ICDAR2017, [code](https://github.com/JianshuZhang/TAP)<br>
-  [Context-aware mathematical expression recognition: An end-to-end framework and a benchmark](https://ieeexplore.ieee.org/abstract/document/7900135) -Hewenhao, ICPR<br>
+  [Image-to-markup generation with coarse-to-fine attention](http://proceedings.mlr.press/v70/deng17a.html) -ICML2017<br>
+  [Context-aware mathematical expression recognition: An end-to-end framework and a benchmark](https://ieeexplore.ieee.org/abstract/document/7900135) -Hewenhao, ICPR2016<br>
   [ICFHR2016 CROHME: Competition on Recognition of Online Handwritten Mathematical Expressions](https://ieeexplore.ieee.org/abstract/document/7814132) -ICFHR2016<br>
   [An integrated grammar-based approach for mathematical expression recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320315003441) -PR2016<br>
 ## word_vector
