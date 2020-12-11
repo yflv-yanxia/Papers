@@ -10,7 +10,7 @@
   [Multi-modal Attention Network for Handwritten Mathematical Expression Recognition](https://ieeexplore.ieee.org/abstract/document/8978103/) -DuJun, ICDAR2019<br>
   [Robust Encoder-Decoder Learning Framework towards Offline Handwritten Mathematical Expression Recognition Based on Multi-Scale Deep Neural Network](https://arxiv.org/abs/1902.05376)-arxiv2019<br>
   [Track, attend, and parse (tap): An end-to-end framework for online handwritten mathematical expression recognition](https://ieeexplore.ieee.org/abstract/document/8373726) -DuJun, TMM2018, [code](https://github.com/JianshuZhang/TAP)<br>
-  [Multi-scale attention with dense encoder for handwritten mathematical expression recognition](https://ieeexplore.ieee.org/abstract/document/8546031) -DuJun, ICPR2018<br>
+  [Multi-scale attention with dense encoder for handwritten mathematical expression recognition](https://ieeexplore.ieee.org/abstract/document/8546031) -DuJun, ICPR2018, [code](https://github.com/JianshuZhang/WAP)<br>
   [Watch, attend and parse: An end-to-end neural network based approach to handwritten mathematical expression recognition](https://www.sciencedirect.com/science/article/pii/S0031320317302376) -J Zhang, J Du, S Zhang, D Liu, Y Hu, J Hu, S Wei, PR2017, [code](https://github.com/JianshuZhang/WAP)<br>
   [A GRU-Based Encoder-Decoder Approach with Attention for Online Handwritten Mathematical Expression Recognition](https://ieeexplore.ieee.org/abstract/document/8270083) -Dujun, ICDAR2017<br>
   [Context-aware mathematical expression recognition: An end-to-end framework and a benchmark](https://ieeexplore.ieee.org/abstract/document/7900135) -Hewenhao, ICPR<br>
