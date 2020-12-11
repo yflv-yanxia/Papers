@@ -7,6 +7,7 @@
   [Handwritten mathematical expression recognition via paired adversarial learning](https://link.springer.com/article/10.1007%2Fs11263-020-01291-5) -WuJinwen, IJCV2020<br>
   [Stroke Constrained Attention Network for Online Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2002.08670) -DuJun, arxiv2020<br>
   [SRD: A Tree Structure Based Decoder for Online Handwritten Mathematical Expression Recognition](https://ieeexplore.ieee.org/abstract/document/9147045/) -DuJun, TMM2020, [code](https://github.com/Rid7/SRD)<br>
+  [A Tree-Structured Decoder for Image-to-Markup Generation]() -Dujun, ICML2020, [code](https://github.com/JianshuZhang/TreeDecoder)<br>
   [Multi-modal Attention Network for Handwritten Mathematical Expression Recognition](https://ieeexplore.ieee.org/abstract/document/8978103/) -DuJun, ICDAR2019<br>
   [Robust Encoder-Decoder Learning Framework towards Offline Handwritten Mathematical Expression Recognition Based on Multi-Scale Deep Neural Network](https://arxiv.org/abs/1902.05376)-arxiv2019<br>
   [Track, attend, and parse (tap): An end-to-end framework for online handwritten mathematical expression recognition](https://ieeexplore.ieee.org/abstract/document/8373726) -DuJun, TMM2018, [code](https://github.com/JianshuZhang/TAP)<br>
