@@ -2,10 +2,10 @@
 ## mathematical expression recognition
   [ICFHR 2020 Competition on Offline Recognition and Spotting of Handwritten Mathematical Expressions - OffRaSHME](https://ieeexplore.ieee.org/abstract/document/9257745) -Wangdahan, ICFHR2020<br>
   [Improvement of End-to-End Offline Handwritten Mathematical Expression Recognition by Weakly Supervised Learning](https://ieeexplore.ieee.org/abstract/document/9257749) -ICFHR2020<br>
-  [Improving Attention-Based Handwritten Mathematical Expression Recognition with Scale Augmentation and Drop Attention](https://ieeexplore.ieee.org/abstract/document/9257765) -ICFHR2020<br>
+  [Improving Attention-Based Handwritten Mathematical Expression Recognition with Scale Augmentation and Drop Attention](https://ieeexplore.ieee.org/abstract/document/9257765) -Jinlianwen, ICFHR2020<br>
   [EDSL: An Encoder-Decoder Architecture with Symbol-Level Features for Printed Mathematical Expression Recognition](https://arxiv.org/abs/2007.02517) -arxiv2020, [code](https://github.com/abcAnonymous/EDSL)<br>
   [Handwritten mathematical expression recognition via paired adversarial learning](https://link.springer.com/article/10.1007%2Fs11263-020-01291-5) -WuJinwen, IJCV2020<br>
-  [Stroke Constrained Attention Network for Online Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2002.08670) -DuJun, arxiv2020<br>
+  [Stroke Constrained Attention Network for Online Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2002.08670) -DuJun, arxiv2020, [code]()<br>
   [SRD: A Tree Structure Based Decoder for Online Handwritten Mathematical Expression Recognition](https://ieeexplore.ieee.org/abstract/document/9147045/) -DuJun, TMM2020, [code](https://github.com/Rid7/SRD)<br>
   [A Tree-Structured Decoder for Image-to-Markup Generation]() -Dujun, ICML2020, [code](https://github.com/JianshuZhang/TreeDecoder)<br>
   [Multi-modal Attention Network for Handwritten Mathematical Expression Recognition](https://ieeexplore.ieee.org/abstract/document/8978103/) -DuJun, ICDAR2019<br>
