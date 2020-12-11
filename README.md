@@ -15,6 +15,7 @@
   [Watch, attend and parse: An end-to-end neural network based approach to handwritten mathematical expression recognition](https://www.sciencedirect.com/science/article/pii/S0031320317302376) -J Zhang, J Du, S Zhang, D Liu, Y Hu, J Hu, S Wei, PR2017, [code](https://github.com/JianshuZhang/WAP), [code2](https://github.com/whywhs/Pytorch-Handwritten-Mathematical-Expression-Recognition)<br>
   [A GRU-Based Encoder-Decoder Approach with Attention for Online Handwritten Mathematical Expression Recognition](https://ieeexplore.ieee.org/abstract/document/8270083) -Dujun, ICDAR2017, [code](https://github.com/JianshuZhang/TAP)<br>
   [Image-to-markup generation with coarse-to-fine attention](http://proceedings.mlr.press/v70/deng17a.html) -Dengyuntian, ICML2017, [code](https://github.com/harvardnlp/im2markup/)<br>
+  [What you get is what you see: A visual markup decompiler](https://arxiv.org/abs/1609.04938) -Dengyuntian, arxiv2016, [code](https://github.com/OpenNMT/OpenNMT-py/blob/master/docs/source/legacy/im2text.md)<br>
   [Context-aware mathematical expression recognition: An end-to-end framework and a benchmark](https://ieeexplore.ieee.org/abstract/document/7900135) -Hewenhao, ICPR2016<br>
   [ICFHR2016 CROHME: Competition on Recognition of Online Handwritten Mathematical Expressions](https://ieeexplore.ieee.org/abstract/document/7814132) -ICFHR2016<br>
   [An integrated grammar-based approach for mathematical expression recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320315003441) -PR2016<br>
