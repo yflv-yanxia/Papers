@@ -82,4 +82,5 @@ http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_G
 编码<br>
 
 ## InformationExtraction
+[Towards Robust Visual Information Extraction in Real World: New Dataset and Novel Solution](https://arxiv.org/abs/2102.06732) -jinlianwen, AAAI2021<br>
 [TRIE: End-to-End Text Reading and Information Extraction for Document Understanding](https://arxiv.org/abs/2005.13118) -hikvision, arxiv2020
