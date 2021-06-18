@@ -1,4 +1,7 @@
 # Papers
+## asr
+  [Investigation of modeling units for mandarin speech recognition using DFSMN-CTC-sMBR](https://ieeexplore.ieee.org/abstract/document/8683859) -alibaba, ICASSP2019<br>
+  
 ## mathematical expression recognition
   [ICFHR 2020 Competition on Offline Recognition and Spotting of Handwritten Mathematical Expressions - OffRaSHME](https://ieeexplore.ieee.org/abstract/document/9257745) -Wangdahan, ICFHR2020<br>
   [Improvement of End-to-End Offline Handwritten Mathematical Expression Recognition by Weakly Supervised Learning](https://ieeexplore.ieee.org/abstract/document/9257749) -ICFHR2020<br>
