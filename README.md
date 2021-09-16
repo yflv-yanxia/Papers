@@ -11,6 +11,7 @@
   [Streaming End-to-end Speech Recognition for Mobile Devices](https://arxiv.org/abs/1811.06621) -google, ICASSP2019<br>
   
 ## table recognition
+  [Image-based table recognition: data, model, and evaluation](https://arxiv.org/abs/1911.10683) -arxiv2019<br>
   [Deepdesrt: Deep learning for detection and structure recognition of tables in document images](https://ieeexplore.ieee.org/abstract/document/8270123) -ICDAR2017<br>
   
 ## mathematical expression recognition
