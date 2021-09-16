@@ -10,6 +10,9 @@
   [Shallow-Fusion End-to-End Contextual Biasing]() -google, INTERSPEECH2019<br>
   [Streaming End-to-end Speech Recognition for Mobile Devices](https://arxiv.org/abs/1811.06621) -google, ICASSP2019<br>
   
+## table recognition
+  [Deepdesrt: Deep learning for detection and structure recognition of tables in document images](https://ieeexplore.ieee.org/abstract/document/8270123) -ICDAR2017<br>
+  
 ## mathematical expression recognition
   [ICFHR 2020 Competition on Offline Recognition and Spotting of Handwritten Mathematical Expressions - OffRaSHME](https://ieeexplore.ieee.org/abstract/document/9257745) -Wangdahan, ICFHR2020<br>
   [Improvement of End-to-End Offline Handwritten Mathematical Expression Recognition by Weakly Supervised Learning](https://ieeexplore.ieee.org/abstract/document/9257749) -ICFHR2020<br>
