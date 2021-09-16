@@ -6,7 +6,8 @@
 
 ## Contextual Biasing
   [Bringing contextual information to google speech recognition](https://www.semanticscholar.org/paper/Bringing-contextual-information-to-google-speech-Aleksic-Ghodsi/740844739cd791e9784c4fc843beb9174ed0b487?p2df) -google, INTERSPEECH2015<br>
-  [Shallow-Fusion End-to-End Contextual Biasing]() -google, InterSpeech2019<br>
+  [Shallow-Fusion End-to-End Contextual Biasing]() -google, INTERSPEECH2019<br>
+  [Streaming End-to-end Speech Recognition for Mobile Devices](https://ieeexplore.ieee.org/document/8682336) -google, ICASSP2019<br>
   
 ## mathematical expression recognition
   [ICFHR 2020 Competition on Offline Recognition and Spotting of Handwritten Mathematical Expressions - OffRaSHME](https://ieeexplore.ieee.org/abstract/document/9257745) -Wangdahan, ICFHR2020<br>
