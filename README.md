@@ -1,5 +1,7 @@
 # Papers
 ## asr
+  []() -google, <br>
+  [ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context](https://arxiv.org/abs/2005.03191) -google, Interspeech2020<br>
   [Investigation of modeling units for mandarin speech recognition using DFSMN-CTC-sMBR](https://ieeexplore.ieee.org/abstract/document/8683859) -alibaba, ICASSP2019<br>
   [Sequence discriminative distributed training of long short-term memory recurrent neural networks](https://research.google/pubs/pub42547/) -google, <br>
   [Sequence-discriminative training of deep neural networks](http://www.fit.vutbr.cz/research/groups/speech/publi/2013/vesely_interspeech2013_IS131333.pdf) INTERSPEECH2013<br>
