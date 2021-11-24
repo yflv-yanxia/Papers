@@ -15,7 +15,7 @@
 ## table detection & recognition
   [Parsing Table Structures in the Wild](https://arxiv.org/abs/2109.02199) -alibaba, ICCV2021, [dataset](https://github.com/wangwen-whu/WTW-Dataset)<br>
   [TNCR: Table Net Detection and Classification Dataset](https://github.com/abdoelsayed2016/TNCR_Dataset) -arxiv2021, [dataset](https://github.com/abdoelsayed2016/TNCR_Dataset)<br>
-  [Form2Seq : A Framework for Higher-Order Form Structure Extraction](https://arxiv.org/abs/2107.04419) -arxiv2021<br>
+  [Form2Seq : A Framework for Higher-Order Form Structure Extraction](https://arxiv.org/abs/2107.04419) -EMNLP2020<br>
   [Table Structure Recognition using Top-Down and Bottom-Up Cues](https://arxiv.org/abs/2010.04565) ECCV2020<br>
   [Tablenet: Deep learning model for end-to-end table detection and tabular data extraction from scanned document images](https://arxiv.org/abs/2001.01469) -ICDAR2019<br>
   [Image-based table recognition: data, model, and evaluation](https://arxiv.org/abs/1911.10683) -arxiv2019<br>
