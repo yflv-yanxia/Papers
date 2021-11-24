@@ -13,6 +13,7 @@
   [Streaming End-to-end Speech Recognition for Mobile Devices](https://arxiv.org/abs/1811.06621) -google, ICASSP2019<br>
   
 ## table detection & recognition
+  [TGRNet: A Table Graph Reconstruction Network for Table Structure Recognition](https://arxiv.org/abs/2106.10598) JD-ICCV2021<br>
   [Parsing Table Structures in the Wild](https://arxiv.org/abs/2109.02199) -alibaba, ICCV2021, [dataset](https://github.com/wangwen-whu/WTW-Dataset)<br>
   [TNCR: Table Net Detection and Classification Dataset](https://github.com/abdoelsayed2016/TNCR_Dataset) -arxiv2021, [dataset](https://github.com/abdoelsayed2016/TNCR_Dataset)<br>
   [Form2Seq : A Framework for Higher-Order Form Structure Extraction](https://arxiv.org/abs/2107.04419) -EMNLP2020<br>
