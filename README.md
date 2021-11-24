@@ -13,6 +13,7 @@
   [Streaming End-to-end Speech Recognition for Mobile Devices](https://arxiv.org/abs/1811.06621) -google, ICASSP2019<br>
   
 ## table recognition
+  [Parsing Table Structures in the Wild](https://arxiv.org/abs/2109.02199) -alibaba, ICCV2021<br>
   [Image-based table recognition: data, model, and evaluation](https://arxiv.org/abs/1911.10683) -arxiv2019<br>
   [Deep Splitting and Merging for Table Structure Decomposition](https://ieeexplore.ieee.org/document/8977975) -ICDAR2019<br>
   [Deepdesrt: Deep learning for detection and structure recognition of tables in document images](https://ieeexplore.ieee.org/abstract/document/8270123) -ICDAR2017<br>
