@@ -13,6 +13,10 @@
   [Streaming End-to-end Speech Recognition for Mobile Devices](https://arxiv.org/abs/1811.06621) -google, ICASSP2019<br>
   
 ## table detection & recognition
+  [Deep Structured Feature Networks for Table Detection and Tabular Data Extraction from Scanned Financial Document Images](https://arxiv.org/abs/2102.10287) -arxiv2021<br>
+  [Guided Table Structure Recognition through Anchor Optimization](https://arxiv.org/abs/2104.10538) -arxiv2021<br>
+  [TabAug: Data Driven Augmentation for Enhanced Table Structure Recognition](https://arxiv.org/abs/2104.14237) -ICDAR2021<br>
+  [PingAn-VCGroup's Solution for ICDAR 2021 Competition on Scientific Table Image Recognition to Latex](https://arxiv.org/abs/2105.01846) -pingan, arxiv2021<br>
   [LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment](https://arxiv.org/abs/2105.06224) -ICDAR2021<br>
   [ICDAR 2021 Competition on Scientific Table Image Recognition to LaTeX](https://arxiv.org/abs/2105.14426) -arxiv2021<br>
   [TGRNet: A Table Graph Reconstruction Network for Table Structure Recognition](https://arxiv.org/abs/2106.10598) JD-ICCV2021<br>
