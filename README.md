@@ -19,7 +19,7 @@
   [PingAn-VCGroup's Solution for ICDAR 2021 Competition on Scientific Table Image Recognition to Latex](https://arxiv.org/abs/2105.01846) -pingan, arxiv2021<br>
   [LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment](https://arxiv.org/abs/2105.06224) -ICDAR2021<br>
   [ICDAR 2021 Competition on Scientific Table Image Recognition to LaTeX](https://arxiv.org/abs/2105.14426) -arxiv2021<br>
-  [TGRNet: A Table Graph Reconstruction Network for Table Structure Recognition](https://arxiv.org/abs/2106.10598) JD-ICCV2021<br>
+  [TGRNet: A Table Graph Reconstruction Network for Table Structure Recognition](https://arxiv.org/abs/2106.10598) JD-ICCV2021, [code](https://github.com/xuewenyuan/TGRNet)<br>
   [Parsing Table Structures in the Wild](https://arxiv.org/abs/2109.02199) -alibaba, ICCV2021, [dataset](https://github.com/wangwen-whu/WTW-Dataset)<br>
   [TNCR: Table Net Detection and Classification Dataset](https://github.com/abdoelsayed2016/TNCR_Dataset) -arxiv2021, [dataset](https://github.com/abdoelsayed2016/TNCR_Dataset)<br>
   [Form2Seq : A Framework for Higher-Order Form Structure Extraction](https://arxiv.org/abs/2107.04419) -EMNLP2020<br>
