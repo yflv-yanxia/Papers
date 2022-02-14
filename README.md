@@ -122,6 +122,7 @@ http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_G
 [Investigation of Sequence-level Knowledge Distillation Methods for CTC Acoustic Models](https://ieeexplore.ieee.org/document/8682671) -NICT japan, ICASSP2019<br>
 [Guiding CTC Posterior Spike Timings for Improved Posterior Fusion and Knowledge Distillation](https://arxiv.org/abs/1904.08311) -IBM, Interspeech2019<br>
 [Explaining sequence-level knowledge distillation as data-augmentation for neural machine translation](https://arxiv.org/abs/1912.03334) -arxiv2019<br>
+[Token-Level Ensemble Distillation for Grapheme-to-Phoneme Conversion](https://arxiv.org/abs/1904.03446) -microsoft, Interspeech2019<br>
 [Knowledge Distillation for Sequence Model](https://www.researchgate.net/publication/327389374_Knowledge_Distillation_for_Sequence_Model) -AISpeech, Interspeech2018<br>
 [Improved knowledge distillation from bi-directional to uni-directional LSTM CTC for end-to-end speech recognition](https://ieeexplore.ieee.org/abstract/document/8639629) -IBM, SLT2018<br>
 [An Investigation of a Knowledge Distillation Method for CTC Acoustic Models](https://ieeexplore.ieee.org/document/8461995) -NICT japan, ICASSP2018<br>
