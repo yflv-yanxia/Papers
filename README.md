@@ -116,3 +116,13 @@ http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_G
 [TRIE: End-to-End Text Reading and Information Extraction for Document Understanding](https://arxiv.org/abs/2005.13118) -hikvision, arxiv2020<br>
 [LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding](https://arxiv.org/abs/2012.14740) -microsoft, arxiv2020<br>
 [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/abs/1912.13318) -microsoft, KDD2020, [code](https://github.com/microsoft/unilm/tree/master/layoutlm)<br>
+
+## knowledge distillation
+[Efficient knowledge distillation for rnn-transducer models](https://ieeexplore.ieee.org/abstract/document/9413905) -google/facebook, ICASSP2021<br>
+[Investigation of Sequence-level Knowledge Distillation Methods for CTC Acoustic Models](https://ieeexplore.ieee.org/document/8682671) -NICT japan, ICASSP2019<br>
+[Guiding CTC Posterior Spike Timings for Improved Posterior Fusion and Knowledge Distillation](https://arxiv.org/abs/1904.08311) -IBM, Interspeech2019<br>
+[Explaining sequence-level knowledge distillation as data-augmentation for neural machine translation](https://arxiv.org/abs/1912.03334) -arxiv2019<br>
+[Knowledge Distillation for Sequence Model](https://www.researchgate.net/publication/327389374_Knowledge_Distillation_for_Sequence_Model) -AISpeech, Interspeech2018<br>
+[Improved knowledge distillation from bi-directional to uni-directional LSTM CTC for end-to-end speech recognition](https://ieeexplore.ieee.org/abstract/document/8639629) -IBM, SLT2018<br>
+[An Investigation of a Knowledge Distillation Method for CTC Acoustic Models](https://ieeexplore.ieee.org/document/8461995) -NICT japan, ICASSP2018<br>
+[Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947) -Yoon Kim, EMNLP2016<br>
