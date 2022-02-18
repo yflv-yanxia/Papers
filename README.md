@@ -129,4 +129,4 @@ http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_G
 [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947) -Yoon Kim, EMNLP2016<br>
 
 ## Document Rectification
-[Document Rectification and Illumination Correction using a Patch-based CNN](https://arxiv.org/abs/1909.09470) -SIGGRAPH2019<br>
+[Document Rectification and Illumination Correction using a Patch-based CNN](https://arxiv.org/abs/1909.09470) -SIGGRAPH2019, [code](https://github.com/HCIILAB/DocProj)<br>
