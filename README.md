@@ -127,3 +127,6 @@ http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_G
 [Improved knowledge distillation from bi-directional to uni-directional LSTM CTC for end-to-end speech recognition](https://ieeexplore.ieee.org/abstract/document/8639629) -IBM, SLT2018<br>
 [An Investigation of a Knowledge Distillation Method for CTC Acoustic Models](https://ieeexplore.ieee.org/document/8461995) -NICT japan, ICASSP2018<br>
 [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947) -Yoon Kim, EMNLP2016<br>
+
+## Document Rectification
+[Document Rectification and Illumination Correction using a Patch-based CNN](https://arxiv.org/abs/1909.09470) -SIGGRAPH2019<br>
