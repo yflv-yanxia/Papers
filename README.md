@@ -101,6 +101,7 @@ Drop an octave: Reducing spatial redundancy in convolutional neural networks wit
 HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs<br>
 Joint Architecture and Knowledge Distillation in Convolutional Neural Network for Offline Handwritten Chinese Text Recognition -dujun, arxiv2019
 Compressing CNN-DBLSTM models for OCR with teacher-student learning and Tucker decomposition -huoqiang, PR2019
+[vovnet](https://arxiv.org/abs/1904.09730)<br>
 http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_GPU-Computation_Efficient_Backbone_Network_for_Real-Time_Object_CVPRW_2019_paper.pdf
 
 
