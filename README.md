@@ -132,7 +132,8 @@ http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_G
 [Document Rectification and Illumination Correction using a Patch-based CNN](https://arxiv.org/abs/1909.09470) -SIGGRAPH2019, [code](https://github.com/HCIILAB/DocProj)<br>
 
 ## Graph
-[Contextual Stroke Classification in Online Handwritten Documents with Edge Graph Attention Networks](https://link.springer.com/article/10.1007/s42979-020-00177-0) -Liu Chenglin, SNCS2020<br>
+[Joint stroke classification and text line grouping in online handwritten documents with edge pooling attention networks](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000467) -PR2021<br>
+[Contextual Stroke Classification in Online Handwritten Documents with Edge Graph Attention Networks](https://link.springer.com/article/10.1007/s42979-020-00177-0) -SNCS2020<br>
 [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907) -ICLR2017<br>
 [Graph Attention Networks](https://arxiv.org/abs/1710.10903) -ICLR2018<br>
 [Graph Convolutional Networks for Text Classification](https://ojs.aaai.org/index.php/AAAI/article/view/4725) -AAAI2019<br>
