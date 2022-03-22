@@ -134,3 +134,4 @@ http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_G
 ## Graph
 [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907) -ICLR2017<br>
 [Graph Attention Networks](https://arxiv.org/abs/1710.10903) -ICLR2018<br>
+[Graph Convolutional Networks for Text Classification](https://ojs.aaai.org/index.php/AAAI/article/view/4725) -AAAI2019<br>
