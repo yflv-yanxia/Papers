@@ -130,3 +130,7 @@ http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_G
 
 ## Document Rectification
 [Document Rectification and Illumination Correction using a Patch-based CNN](https://arxiv.org/abs/1909.09470) -SIGGRAPH2019, [code](https://github.com/HCIILAB/DocProj)<br>
+
+## Graph
+[Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907) -ICLR2017<br>
+[Graph Attention Networks](https://arxiv.org/abs/1710.10903) -ICLR2018<br>
