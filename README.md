@@ -130,6 +130,8 @@ http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_G
 [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947) -Yoon Kim, EMNLP2016<br>
 
 ## Document Rectification
+[Fourier Document Restoration for Robust Document Dewarping and Recognition](http://arxiv-export-lb.library.cornell.edu/abs/2203.09910) -CVPR2022, bai song [database](https://sg-vilab.github.io/event/warpdoc/)<br>
+[Document Dewarping with Control Points](https://arxiv.org/abs/2203.10543) -ICDAR2021, [code&dataset](https://github.com/gwxie/Document-Dewarping-with-Control-Points)<br>
 [Document Rectification and Illumination Correction using a Patch-based CNN](https://arxiv.org/abs/1909.09470) -SIGGRAPH2019, [code](https://github.com/HCIILAB/DocProj)<br>
 
 ## Graph
