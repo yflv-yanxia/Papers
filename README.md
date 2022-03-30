@@ -137,6 +137,7 @@ http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_G
 ## Graph
 [Joint stroke classification and text line grouping in online handwritten documents with edge pooling attention networks](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000467) -PR2021<br>
 [Contextual Stroke Classification in Online Handwritten Documents with Edge Graph Attention Networks](https://link.springer.com/article/10.1007/s42979-020-00177-0) -SNCS2020<br>
+[Deepgcns: Can gcns go as deep as cnns?](https://openaccess.thecvf.com/content_ICCV_2019/html/Li_DeepGCNs_Can_GCNs_Go_As_Deep_As_CNNs_ICCV_2019_paper.html) -ICCV2019<br>
 [Heterogeneous graph attention network](https://arxiv.org/abs/1903.07293) -WWW2019<br>
 [Contextual Stroke Classification in Online Handwritten Documents with Graph Attention Networks](https://ieeexplore.ieee.org/abstract/document/8978003) -ICDAR2019<br>
 [Graph Convolutional Networks for Text Classification](https://ojs.aaai.org/index.php/AAAI/article/view/4725) -AAAI2019<br>
