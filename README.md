@@ -13,6 +13,7 @@
   [Streaming End-to-end Speech Recognition for Mobile Devices](https://arxiv.org/abs/1811.06621) -google, ICASSP2019<br>
   
 ## table detection & recognition
+  [Robust Table Detection and Structure Recognition from Heterogeneous Document Images](https://arxiv.org/abs/2203.09056) -huoqiang, arxiv2022<br>
   [Deep Structured Feature Networks for Table Detection and Tabular Data Extraction from Scanned Financial Document Images](https://arxiv.org/abs/2102.10287) -arxiv2021<br>
   [Guided Table Structure Recognition through Anchor Optimization](https://arxiv.org/abs/2104.10538) -arxiv2021<br>
   [TabAug: Data Driven Augmentation for Enhanced Table Structure Recognition](https://arxiv.org/abs/2104.14237) -ICDAR2021<br>
