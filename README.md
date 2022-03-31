@@ -30,6 +30,7 @@
   [Deepdesrt: Deep learning for detection and structure recognition of tables in document images](https://ieeexplore.ieee.org/abstract/document/8270123) -ICDAR2017<br>
   
 ## mathematical expression recognition
+  [Graph-to-graph: towards accurate and interpretable online handwritten mathematical expression recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16399) -wujinwen, AAAI2021<br>
   [ICFHR 2020 Competition on Offline Recognition and Spotting of Handwritten Mathematical Expressions - OffRaSHME](https://ieeexplore.ieee.org/abstract/document/9257745) -Wangdahan, ICFHR2020<br>
   [Improvement of End-to-End Offline Handwritten Mathematical Expression Recognition by Weakly Supervised Learning](https://ieeexplore.ieee.org/abstract/document/9257749) -ICFHR2020<br>
   [Improving Attention-Based Handwritten Mathematical Expression Recognition with Scale Augmentation and Drop Attention](https://ieeexplore.ieee.org/abstract/document/9257765) -Jinlianwen, ICFHR2020<br>
