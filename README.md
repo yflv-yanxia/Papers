@@ -1,4 +1,8 @@
 # Papers
+## layout
+  [Page segmentation using convolutional neural network and graphical model](https://link.springer.com/chapter/10.1007/978-3-030-57058-3_17) -Lixiaohui, DAS2020<br>
+  [Printed/Handwritten Texts and Graphics Separation in Complex Documents Using Conditional Random Fields](https://ieeexplore.ieee.org/abstract/document/8395186) -LiXiaohui, DAS2018<br> 
+
 ## asr
   [Conformer: Convolution-augmented Transformer for Speech Recognition](https://arxiv.org/abs/2005.08100) -google, Interspeech2020, [code1](https://github.com/sooftware/conformer),[code2](https://github.com/thu-spmi/CAT)<br>
   [ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context](https://arxiv.org/abs/2005.03191) -google, Interspeech2020, [code](https://github.com/hasangchun/ContextNet)<br>
