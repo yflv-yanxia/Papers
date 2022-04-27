@@ -125,6 +125,7 @@ http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_G
 [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/abs/1912.13318) -microsoft, KDD2020, [code](https://github.com/microsoft/unilm/tree/master/layoutlm)<br>
 
 ## knowledge distillation
+[Decoupled Knowledge Distillation](https://arxiv.org/abs/2203.08679) -megvii, CVPR2022, [code](https://github.com/megvii-research/mdistiller)<br>
 [Efficient knowledge distillation for rnn-transducer models](https://ieeexplore.ieee.org/abstract/document/9413905) -google/facebook, ICASSP2021<br>
 [Investigation of Sequence-level Knowledge Distillation Methods for CTC Acoustic Models](https://ieeexplore.ieee.org/document/8682671) -NICT japan, ICASSP2019<br>
 [Guiding CTC Posterior Spike Timings for Improved Posterior Fusion and Knowledge Distillation](https://arxiv.org/abs/1904.08311) -IBM, Interspeech2019<br>
