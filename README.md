@@ -119,6 +119,7 @@ http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_G
 编码<br>
 
 ## InformationExtraction
+[LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking](https://arxiv.org/abs/2204.08387) -microsoft, arxiv2022, [code](https://github.com/microsoft/unilm/tree/master/layoutlmv3)<br>
 [Towards Robust Visual Information Extraction in Real World: New Dataset and Novel Solution](https://arxiv.org/abs/2102.06732) -jinlianwen, AAAI2021<br>
 [TRIE: End-to-End Text Reading and Information Extraction for Document Understanding](https://arxiv.org/abs/2005.13118) -hikvision, arxiv2020<br>
 [LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding](https://arxiv.org/abs/2012.14740) -microsoft, ACL2021, [code](https://github.com/microsoft/unilm/tree/master/layoutlmv2)<br>
