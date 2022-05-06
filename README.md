@@ -121,7 +121,7 @@ http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_G
 ## InformationExtraction
 [LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking](https://arxiv.org/abs/2204.08387) -microsoft, arxiv2022, [code](https://github.com/microsoft/unilm/tree/master/layoutlmv3)<br>
 [XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding](https://arxiv.org/abs/2203.06947) -ant group, CVPR2022<br>
-[BROS: A Pre-trained Language Model Focusing on Text and Layout for Better Key Information Extraction from Documents](https://arxiv.org/abs/2108.04539) -AAAI2022, [code](https://github.com/clovaai/bros)<br>
+[BROS: A Pre-trained Language Model Focusing on Text and Layout for Better Key Information Extraction from Documents](https://arxiv.org/abs/2108.04539) -naver, AAAI2022, [code](https://github.com/clovaai/bros)<br>
 [StructuralLM: Structural Pre-training for Form Understanding](https://arxiv.org/abs/2105.11210) -alibaba, ACL2021<br>
 [UniDoc: Unified Pretraining Framework for Document Understanding](https://proceedings.neurips.cc/paper/2021/hash/0084ae4bc24c0795d1e6a4f58444d39b-Abstract.html) -adobe, NeurIPS2021<br>
 [DocFormer: End-to-End Transformer for Document Understanding](https://openaccess.thecvf.com/content/ICCV2021/html/Appalaraju_DocFormer_End-to-End_Transformer_for_Document_Understanding_ICCV_2021_paper.html) -amazon, ICCV2021<br>
