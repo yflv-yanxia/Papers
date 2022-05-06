@@ -121,7 +121,7 @@ http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_G
 ## InformationExtraction
 [Towards Robust Visual Information Extraction in Real World: New Dataset and Novel Solution](https://arxiv.org/abs/2102.06732) -jinlianwen, AAAI2021<br>
 [TRIE: End-to-End Text Reading and Information Extraction for Document Understanding](https://arxiv.org/abs/2005.13118) -hikvision, arxiv2020<br>
-[LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding](https://arxiv.org/abs/2012.14740) -microsoft, arxiv2020<br>
+[LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding](https://arxiv.org/abs/2012.14740) -microsoft, ACL2021, [code](https://github.com/microsoft/unilm/tree/master/layoutlmv2)<br>
 [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/abs/1912.13318) -microsoft, KDD2020, [code](https://github.com/microsoft/unilm/tree/master/layoutlm)<br>
 
 ## knowledge distillation
