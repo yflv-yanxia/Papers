@@ -128,9 +128,10 @@ http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_G
 [LayoutParser: A Unified Toolkit for Deep Learning Based Document Image Analysis](https://link.springer.com/chapter/10.1007/978-3-030-86549-8_9) -ICDAR2021<br>
 [Going Full-TILT Boogie on Document Understanding with Text-Image-Layout Transformer](https://arxiv.org/abs/2102.09550) -ICDAR2021<br>
 [Towards Robust Visual Information Extraction in Real World: New Dataset and Novel Solution](https://arxiv.org/abs/2102.06732) -jinlianwen, AAAI2021<br>
-[TRIE: End-to-End Text Reading and Information Extraction for Document Understanding](https://arxiv.org/abs/2005.13118) -hikvision, arxiv2020<br>
+[LayoutXLM: Multimodal Pre-training for Multilingual Visually-rich Document Understanding](https://arxiv.org/abs/2104.08836) -microsoft,arxiv2021<br>
 [LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding](https://arxiv.org/abs/2012.14740) -microsoft, ACL2021, [code](https://github.com/microsoft/unilm/tree/master/layoutlmv2)<br>
 [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/abs/1912.13318) -microsoft, KDD2020, [code](https://github.com/microsoft/unilm/tree/master/layoutlm)<br>
+[TRIE: End-to-End Text Reading and Information Extraction for Document Understanding](https://arxiv.org/abs/2005.13118) -hikvision, arxiv2020<br>
 
 ## knowledge distillation
 [Decoupled Knowledge Distillation](https://arxiv.org/abs/2203.08679) -megvii, CVPR2022, [code](https://github.com/megvii-research/mdistiller)<br>
