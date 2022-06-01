@@ -110,6 +110,8 @@ Compressing CNN-DBLSTM models for OCR with teacher-student learning and Tucker d
 [vovnet](https://arxiv.org/abs/1904.09730)<br>
 http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_GPU-Computation_Efficient_Backbone_Network_for_Real-Time_Object_CVPRW_2019_paper.pdf
 
+## network
+[TRT-ViT: TensorRT-oriented Vision Transformer](https://arxiv.org/abs/2205.09579) -bytedance, arxiv2022<br>
 
 ## model compression
 蒸馏：teacher-student/mutual-learning/Self-Distillation<br>
