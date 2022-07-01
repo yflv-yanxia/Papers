@@ -88,6 +88,7 @@ DetNAS: Backbone Search for Object Detection<br>
 Mixup<br>
 
 ## light network
+[UNeXt: MLP-based Rapid Medical Image Segmentation Network](https://arxiv.org/abs/2203.04967) -arxiv2022, [code](https://github.com/jeya-maria-jose/UNeXt-pytorch)<br>
 [TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation](https://arxiv.org/abs/2204.05525) -tencent, CVPR2022, [code](https://github.com/hustvl/TopFormer)<br>
 [MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer](https://arxiv.org/abs/2110.02178) apple, ICLR2022, [code](https://github.com/apple/ml-cvnets)<br>
 TinyNet[Model Rubik's Cube: Twisting Resolution, Depth and Width for TinyNets](https://arxiv.org/abs/2010.14819) -huawei, NeurIPS2020<br>
