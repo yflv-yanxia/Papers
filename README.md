@@ -75,8 +75,10 @@
   [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1611.08050) -CMU, CVPR2017<br>
   AlphaPose<br>
 ## EdgeDetection
-  [Deepedge: A multi-scale bifurcated deep network for top-down contour detection](https://www.seas.upenn.edu/~gberta/uploads/3/1/4/8/31486883/1950.pdf) -Gedas, CVPR15<br>
+  [Pixel Difference Networks for Efficient Edge Detection](https://arxiv.org/abs/2108.07009) -ICCV2021, [code](https://github.com/zhuoinoulu/pidinet)<br>
   [Richer Convolutional Features for Edge Detection](http://mftp.mmcheng.net/Papers/19PamiEdge.pdf) -YunLiu, ..., Baixiang et, PAMI2019<br>
+  [Deepedge: A multi-scale bifurcated deep network for top-down contour detection](https://www.seas.upenn.edu/~gberta/uploads/3/1/4/8/31486883/1950.pdf) -Gedas, CVPR15<br>
+  
 ## video_classification
   [Learnable pooling with Context Gating for video classification](https://arxiv.org/abs/1706.06905) -A. Miech, et al, TPAMI2018, Youtube8M-Competition-Top1<br>
   [Truly Multi-modal YouTube-8M Video Classification with Video, Audio, and Text](https://arxiv.org/abs/1706.05461) -Zhe wang, et al, arxiv2017<br>
