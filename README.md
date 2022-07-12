@@ -80,7 +80,9 @@
   [Deepedge: A multi-scale bifurcated deep network for top-down contour detection](https://www.seas.upenn.edu/~gberta/uploads/3/1/4/8/31486883/1950.pdf) -Gedas, CVPR15<br>
   
 ## line segmentation
-  [M-LSD: Towards Light-weight and Real-time Line Segment Detection](https://arxiv.org/abs/2106.00186) -AAAI2022, [code](https://github.com/navervision/mlsd)<br>
+  [M-LSD: Towards Light-weight and Real-time Line Segment Detection](https://arxiv.org/abs/2106.00186) -NAVER, AAAI2022, [code](https://github.com/navervision/mlsd)<br>
+  [Deep Hough Transform for Semantic Line Detection](https://arxiv.org/abs/2003.04676) -PAMI2021, [code](https://github.com/Hanqer/deep-hough-transform)<br>
+  [Holistically-Attracted Wireframe Parsing](https://arxiv.org/abs/2003.01663) -CVPR2020, [code](https://github.com/cherubicXN/hawp)<br>
   
 ## video_classification
   [Learnable pooling with Context Gating for video classification](https://arxiv.org/abs/1706.06905) -A. Miech, et al, TPAMI2018, Youtube8M-Competition-Top1<br>
