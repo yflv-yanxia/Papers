@@ -79,6 +79,9 @@
   [Richer Convolutional Features for Edge Detection](http://mftp.mmcheng.net/Papers/19PamiEdge.pdf) -YunLiu, ..., Baixiang et, PAMI2019<br>
   [Deepedge: A multi-scale bifurcated deep network for top-down contour detection](https://www.seas.upenn.edu/~gberta/uploads/3/1/4/8/31486883/1950.pdf) -Gedas, CVPR15<br>
   
+## line segmentation
+  [M-LSD: Towards Light-weight and Real-time Line Segment Detection](https://arxiv.org/abs/2106.00186) -AAAI2022, [code](https://github.com/navervision/mlsd)<br>
+  
 ## video_classification
   [Learnable pooling with Context Gating for video classification](https://arxiv.org/abs/1706.06905) -A. Miech, et al, TPAMI2018, Youtube8M-Competition-Top1<br>
   [Truly Multi-modal YouTube-8M Video Classification with Video, Audio, and Text](https://arxiv.org/abs/1706.05461) -Zhe wang, et al, arxiv2017<br>
