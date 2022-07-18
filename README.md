@@ -124,6 +124,7 @@ Compressing CNN-DBLSTM models for OCR with teacher-student learning and Tucker d
 http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_GPU-Computation_Efficient_Backbone_Network_for_Real-Time_Object_CVPRW_2019_paper.pdf
 
 ## network
+[Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios](https://arxiv.org/abs/2207.05501) -bytedance, arxiv2022<br>
 [TRT-ViT: TensorRT-oriented Vision Transformer](https://arxiv.org/abs/2205.09579) -bytedance, arxiv2022<br>
 
 ## model compression
