@@ -183,3 +183,5 @@ http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_G
 
 ## super resolution
 [Edge-oriented Convolution Block for Real-time Super Resolution on Mobile Devices](https://www4.comp.polyu.edu.hk/~cslzhang/paper/MM21_ECBSR.pdf) -alibaba, ACMMM2021[code](https://github.com/xindongzhang/ECBSR)<br>
+[SplitSR: An End-to-End Approach to Super-Resolution on Mobile Devices](https://arxiv.org/abs/2101.07996) -arxiv2021, [code](https://github.com/deepconsc/SplitSR)<br>
+[Extremely Lightweight Quantization Robust Real-Time Single-Image Super Resolution for Mobile Devices](https://openaccess.thecvf.com/content/CVPR2021W/MAI/html/Ayazoglu_Extremely_Lightweight_Quantization_Robust_Real-Time_Single-Image_Super_Resolution_for_Mobile_CVPRW_2021_paper.html) -CVPR2021, [code](https://github.com/cxzhou95/XLSR)<br>
