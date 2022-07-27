@@ -180,3 +180,6 @@ http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_G
 [Graph Convolutional Networks for Text Classification](https://ojs.aaai.org/index.php/AAAI/article/view/4725) -AAAI2019<br>
 [Graph Attention Networks](https://arxiv.org/abs/1710.10903) -ICLR2018<br>
 [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907) -ICLR2017<br>
+
+## super resolution
+[Edge-oriented Convolution Block for Real-time Super Resolution on Mobile Devices](https://www4.comp.polyu.edu.hk/~cslzhang/paper/MM21_ECBSR.pdf) -alibaba, ACMMM2021[code](https://github.com/xindongzhang/ECBSR)<br>
