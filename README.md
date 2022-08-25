@@ -199,3 +199,4 @@ http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_G
 [Morié Attack (MA): A New Potential Risk of Screen Photos](https://proceedings.neurips.cc/paper/2021/hash/db9eeb7e678863649bce209842e0d164-Abstract.html) -NIPs2021, [code](https://github.com/Dantong88/Moire_Attack)<br>
 [Image demoireing with learnable bandpass filters](https://openaccess.thecvf.com/content_CVPR_2020/html/Zheng_Image_Demoireing_with_Learnable_Bandpass_Filters_CVPR_2020_paper.html) -CVPR2020, [code](https://github.com/zhenngbolun/Learnbale_Bandpass_Filter)<br>
 [WDNet: Watermark-Decomposition Network for Visible Watermark Removal](https://arxiv.org/abs/2012.07616) -baixiang, WACV2021, [database/code](https://github.com/MRUIL/WDNet)<br>
+[High Resolution Demoire Network](https://ieeexplore.ieee.org/abstract/document/9191255) -ICIP2020, [code](https://github.com/Rheaaaaayy/HRDN-DEMOIRE)<br>
