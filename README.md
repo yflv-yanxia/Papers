@@ -35,7 +35,7 @@
   [Deepdesrt: Deep learning for detection and structure recognition of tables in document images](https://ieeexplore.ieee.org/abstract/document/8270123) -ICDAR2017<br>
   
 ## mathematical expression recognition
-  [TDv2: A Novel Tree-Structured Decoder for Offline Mathematical Expression Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/20172) -dujun, AAAI2022<br>
+  [TDv2: A Novel Tree-Structured Decoder for Offline Mathematical Expression Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/20172) -dujun, AAAI2022, [code](https://github.com/yqingli123/TDv2)<br>
   [CoMER: Modeling Coverage for Transformer-based Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2207.04410) -peking, ECCV2022, [code](https://github.com/Green-Wood/CoMER)<br>
   [Syntax-Aware Network for Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2203.01601) -baixiang, CVPR2022, [code](https://github.com/tal-tech/SAN)<br>
   [When Counting Meets HMER: Counting-Aware Network for Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2207.11463) -baixiang, ECCV2022, [code](https://github.com/LBH1024/CAN)<br>
