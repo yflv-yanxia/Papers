@@ -35,6 +35,7 @@
   [Deepdesrt: Deep learning for detection and structure recognition of tables in document images](https://ieeexplore.ieee.org/abstract/document/8270123) -ICDAR2017<br>
   
 ## mathematical expression recognition
+  [Syntactic data generation for handwritten mathematical expression recognition](https://www.sciencedirect.com/science/article/abs/pii/S0167865521004293) -nakagawa, PRL2022<br>
   [TDv2: A Novel Tree-Structured Decoder for Offline Mathematical Expression Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/20172) -dujun, AAAI2022, [code](https://github.com/yqingli123/TDv2)<br>
   [CoMER: Modeling Coverage for Transformer-based Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2207.04410) -peking, ECCV2022, [code](https://github.com/Green-Wood/CoMER)<br>
   [Syntax-Aware Network for Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2203.01601) -baixiang, CVPR2022, [code](https://github.com/tal-tech/SAN)<br>
@@ -54,6 +55,7 @@
   [A Tree-Structured Decoder for Image-to-Markup Generation]() -Dujun, ICML2020, [code](https://github.com/JianshuZhang/TreeDecoder)<br>
   [Multi-modal Attention Network for Handwritten Mathematical Expression Recognition](https://ieeexplore.ieee.org/abstract/document/8978103/) -DuJun, ICDAR2019<br>
   [Robust Encoder-Decoder Learning Framework towards Offline Handwritten Mathematical Expression Recognition Based on Multi-Scale Deep Neural Network](https://arxiv.org/abs/1902.05376)-arxiv2019<br>
+  [Pattern generation strategies for improving recognition of Handwritten Mathematical Expressions](https://www.sciencedirect.com/science/article/abs/pii/S0167865519302466) -nakagawa, PRL2019<br>
   [Track, attend, and parse (tap): An end-to-end framework for online handwritten mathematical expression recognition](https://ieeexplore.ieee.org/abstract/document/8373726) -DuJun, TMM2018, [code](https://github.com/JianshuZhang/TAP)<br>
   [Multi-scale attention with dense encoder for handwritten mathematical expression recognition](https://ieeexplore.ieee.org/abstract/document/8546031) -DuJun, ICPR2018, [code](https://github.com/JianshuZhang/WAP)<br>
   [Watch, attend and parse: An end-to-end neural network based approach to handwritten mathematical expression recognition](https://www.sciencedirect.com/science/article/pii/S0031320317302376) -J Zhang, J Du, S Zhang, D Liu, Y Hu, J Hu, S Wei, PR2017, [code](https://github.com/JianshuZhang/WAP), [code2](https://github.com/whywhs/Pytorch-Handwritten-Mathematical-Expression-Recognition)<br>
