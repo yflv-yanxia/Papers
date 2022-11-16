@@ -65,6 +65,7 @@
   [Context-aware mathematical expression recognition: An end-to-end framework and a benchmark](https://ieeexplore.ieee.org/abstract/document/7900135) -Hewenhao, ICPR2016<br>
   [ICFHR2016 CROHME: Competition on Recognition of Online Handwritten Mathematical Expressions](https://ieeexplore.ieee.org/abstract/document/7814132) -ICFHR2016<br>
   [An integrated grammar-based approach for mathematical expression recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320315003441) -PR2016<br>
+  
 ## word_vector
   [Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)--FAIR, arxiv2016<br>
   [fastText-Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)-FAIR, arxiv2016<br>
@@ -78,6 +79,7 @@
   [Image-to-Graph Transformers for Chemical Structure Recognition](https://arxiv.org/abs/2202.09580) -Samsung, arxiv2022<br>
   [DECIMER—hand-drawn molecule images dataset](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00620-9) -Germany, 2022<br>
   [SwinOCSR: end-to-end optical chemical structure recognition using a Swin Transformer](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00624-5) -2022<br>
+  [Performance of chemical structure string representations for chemical image recognition using transformers](https://pubs.rsc.org/en/content/articlehtml/2022/dd/d1dd00013f) -Germany, 2022<br>
   [Review of techniques and models used in optical chemical structure recognition in images and scanned documents](https://link.springer.com/article/10.1186/s13321-022-00642-3) -2022<br>
   [Image2SMILES: Transformer-Based Molecular Optical Recognition Engine](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cmtd.202100069) -2022<br>
   [A Large-Scale Database for Chemical Structure Recognition and Preliminary Evaluation]() -liuchenglin, ICPR2022<br>
