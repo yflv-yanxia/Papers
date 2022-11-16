@@ -76,10 +76,10 @@
 ## Chemical Structure
   [Robust Molecular Image Recognition: A Graph Generation Approach](https://arxiv.org/abs/2205.14311) -MIT, arxiv2022<br>
   [Image-to-Graph Transformers for Chemical Structure Recognition](https://arxiv.org/abs/2202.09580) -Samsung, arxiv2022<br>
-  [DECIMER—hand-drawn molecule images dataset](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00620-9) -2022<br>
+  [DECIMER—hand-drawn molecule images dataset](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00620-9) -Germany, 2022<br>
   [SwinOCSR: end-to-end optical chemical structure recognition using a Swin Transformer](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00624-5) -2022<br>
   [Image2SMILES: Transformer-Based Molecular Optical Recognition Engine](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cmtd.202100069) -2022<br>
-  [DECIMER 1.0: deep learning for chemical image recognition using transformers](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00538-8) -2021<br>
+  [DECIMER 1.0: deep learning for chemical image recognition using transformers](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00538-8) -Germany, 2021<br>
   [Open data and algorithms for open science in AI-driven molecular informatics](https://chemrxiv.org/engage/chemrxiv/article-details/63525542ac45c71e7091ed53)<br>
   
 ## Seq2Seq
