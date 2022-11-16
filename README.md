@@ -75,6 +75,7 @@
   [word2vec-Efficient estimation of word representations in vector space](https://arxiv.org/abs/1301.3781)-google, ICLR2013<br>
   
 ## Chemical Structure
+  [MolMiner: You only look once for chemical structure recognition](https://arxiv.org/abs/2205.11016) - arxiv2022<br>
   [Robust Molecular Image Recognition: A Graph Generation Approach](https://arxiv.org/abs/2205.14311) -MIT, arxiv2022<br>
   [Image-to-Graph Transformers for Chemical Structure Recognition](https://arxiv.org/abs/2202.09580) -Samsung, arxiv2022<br>
   [DECIMER—hand-drawn molecule images dataset](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00620-9) -Germany, 2022<br>
