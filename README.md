@@ -73,6 +73,10 @@
   [doc2vec-Distributed Representations of Sentences and Documents](http://proceedings.mlr.press/v32/le14.pdf)-google, ICML2014<br>
   [word2vec-Efficient estimation of word representations in vector space](https://arxiv.org/abs/1301.3781)-google, ICLR2013<br>
   
+## Chemical Structure
+  [Robust Molecular Image Recognition: A Graph Generation Approach](https://arxiv.org/abs/2205.14311) -MIT, arxiv2022<br>
+  [Image-to-Graph Transformers for Chemical Structure Recognition](https://arxiv.org/abs/2202.09580) -Samsung, arxiv2022<br>
+  [DECIMER 1.0: deep learning for chemical image recognition using transformers](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00538-8) -2021<br>
 ## Seq2Seq
   [Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122) -FAIR, arxiv2017<br>
   [A Convolutional Encoder Model for Neural Machine Translation](https://arxiv.org/abs/1611.02344)-FAIR, arxiv2016<br>
