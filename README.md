@@ -80,6 +80,7 @@
   [SwinOCSR: end-to-end optical chemical structure recognition using a Swin Transformer](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00624-5) -2022<br>
   [Review of techniques and models used in optical chemical structure recognition in images and scanned documents](https://link.springer.com/article/10.1186/s13321-022-00642-3) -2022<br>
   [Image2SMILES: Transformer-Based Molecular Optical Recognition Engine](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cmtd.202100069) -2022<br>
+  [A Large-Scale Database for Chemical Structure Recognition and Preliminary Evaluation]() -liuchenglin, ICPR2022<br>
   [DECIMER 1.0: deep learning for chemical image recognition using transformers](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00538-8) -Germany, 2021<br>
   [Img2Mol–accurate SMILES recognition from molecular graphical depictions](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc01839f) -2021<br>
   [ChemPix: automated recognition of hand-drawn hydrocarbon structures using deep learning](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc02957f) -Stanford, 2021<br>
