@@ -43,6 +43,7 @@
   [Handwritten Mathematical Expression Recognition via Attention Aggregation based Bi-directional Mutual Learning](https://ojs.aaai.org/index.php/AAAI/article/view/19885) -tencent, AAAI2022, [code](https://github.com/XH-B/ABM)<br>
   [Handwritten Mathematical Expression Recognition with Bidirectionally Trained Transformer](https://arxiv.org/abs/2105.02412) -huawei, ICDAR2021, [code](https://github.com/Green-Wood/BTTR)<br>
   [An Encoder-Decoder Approach to Handwritten Mathematical Expression Recognition with Multi-head Attention and Stacked Decoder](https://link.springer.com/chapter/10.1007/978-3-030-86331-9_39) -huoqiang, ICDAR2021<br>
+  [End-to-End Detection and Recognition of Arithmetic Expressions](https://link.springer.com/chapter/10.1007/978-3-030-88004-0_41) -yinfei, PRCV2021<br>
   [Graph-to-graph: towards accurate and interpretable online handwritten mathematical expression recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16399) -wujinwen, AAAI2021<br>
   [MRD: A Memory Relation Decoder for Online Handwritten Mathematical Expression Recognition](https://link.springer.com/chapter/10.1007/978-3-030-86334-0_3) -dujun, ICDAR2021<br>
   [ICFHR 2020 Competition on Offline Recognition and Spotting of Handwritten Mathematical Expressions - OffRaSHME](https://ieeexplore.ieee.org/abstract/document/9257745) -Wangdahan, ICFHR2020<br>
