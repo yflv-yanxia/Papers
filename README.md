@@ -41,6 +41,7 @@
   [Syntax-Aware Network for Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2203.01601) -baixiang, CVPR2022, [code](https://github.com/tal-tech/SAN)<br>
   [When Counting Meets HMER: Counting-Aware Network for Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2207.11463) -baixiang, ECCV2022, [code](https://github.com/LBH1024/CAN)<br>
   [Handwritten Mathematical Expression Recognition via Attention Aggregation based Bi-directional Mutual Learning](https://ojs.aaai.org/index.php/AAAI/article/view/19885) -tencent, AAAI2022, [code](https://github.com/XH-B/ABM)<br>
+  [Offline Handwritten Mathematical Expression Recognition via Graph Reasoning Network](https://link.springer.com/chapter/10.1007/978-3-031-02375-0_2) -yinfei, ACPR2022<br>
   [Handwritten Mathematical Expression Recognition with Bidirectionally Trained Transformer](https://arxiv.org/abs/2105.02412) -huawei, ICDAR2021, [code](https://github.com/Green-Wood/BTTR)<br>
   [An Encoder-Decoder Approach to Handwritten Mathematical Expression Recognition with Multi-head Attention and Stacked Decoder](https://link.springer.com/chapter/10.1007/978-3-030-86331-9_39) -huoqiang, ICDAR2021<br>
   [End-to-End Detection and Recognition of Arithmetic Expressions](https://link.springer.com/chapter/10.1007/978-3-030-88004-0_41) -yinfei, PRCV2021<br>
