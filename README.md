@@ -127,10 +127,10 @@
   Mixup<br>
 
 ## light network
-  [Rethinking Vision Transformers for MobileNet Size and Speed](https://arxiv.org/abs/2212.08059) -Snap, arxiv2022, [code](https://github.com/snap-research/EfficientFormer)<br>
+  EfficientFormerV2[Rethinking Vision Transformers for MobileNet Size and Speed](https://arxiv.org/abs/2212.08059) -Snap, arxiv2022, [code](https://github.com/snap-research/EfficientFormer)<br>
   [UniFormer: Unified Transformer for Efficient Spatiotemporal Representation Learning](https://arxiv.org/abs/2201.04676) -ICLR2022,[code](https://github.com/Sense-X/UniFormer)<br>
   [EdgeNeXt: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications](https://arxiv.org/abs/2206.10589) -arxiv2022, [code](https://github.com/mmaaz60/EdgeNeXt)<br>
-  [EfficientFormer: Vision Transformers at MobileNet Speed](https://arxiv.org/abs/2206.01191) -apple, arxiv2022, [code](https://github.com/snap-research/EfficientFormer)<br>
+  [EfficientFormer: Vision Transformers at MobileNet Speed](https://arxiv.org/abs/2206.01191) -snap, arxiv2022, [code](https://github.com/snap-research/EfficientFormer)<br>
   [UNeXt: MLP-based Rapid Medical Image Segmentation Network](https://arxiv.org/abs/2203.04967) -arxiv2022, [code](https://github.com/jeya-maria-jose/UNeXt-pytorch)<br>
   [TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation](https://arxiv.org/abs/2204.05525) -tencent, CVPR2022, [code](https://github.com/hustvl/TopFormer)<br>
   [MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer](https://arxiv.org/abs/2110.02178) apple, ICLR2022, [code](https://github.com/apple/ml-cvnets)<br>
