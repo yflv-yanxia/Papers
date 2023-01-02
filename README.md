@@ -121,68 +121,66 @@
   [Truly Multi-modal YouTube-8M Video Classification with Video, Audio, and Text](https://arxiv.org/abs/1706.05461) -Zhe wang, et al, arxiv2017<br>
   
 ## dnn_base
-[Group Normalization](https://arxiv.org/abs/1803.08494) -Kaiming He, et al, arxiv2018<br>
-[Graph Convolutional Network](https://arxiv.org/abs/1803.08035) -Xiaolong Wang, Yufei Ye, Abhinav Gupta, CVPR2018<br>
-DetNAS: Backbone Search for Object Detection<br>
-Mixup<br>
+  [Group Normalization](https://arxiv.org/abs/1803.08494) -Kaiming He, et al, arxiv2018<br>
+  [Graph Convolutional Network](https://arxiv.org/abs/1803.08035) -Xiaolong Wang, Yufei Ye, Abhinav Gupta, CVPR2018<br>
+  DetNAS: Backbone Search for Object Detection<br>
+  Mixup<br>
 
 ## light network
-[UniFormer: Unified Transformer for Efficient Spatiotemporal Representation Learning](https://arxiv.org/abs/2201.04676) -ICLR2022,[code](https://github.com/Sense-X/UniFormer)<br>
-[EdgeNeXt: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications](https://arxiv.org/abs/2206.10589) -arxiv2022, [code](https://github.com/mmaaz60/EdgeNeXt)<br>
-[EfficientFormer: Vision Transformers at MobileNet Speed](https://arxiv.org/abs/2206.01191) -apple, arxiv2022, [code](https://github.com/snap-research/EfficientFormer)<br>
-[UNeXt: MLP-based Rapid Medical Image Segmentation Network](https://arxiv.org/abs/2203.04967) -arxiv2022, [code](https://github.com/jeya-maria-jose/UNeXt-pytorch)<br>
-[TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation](https://arxiv.org/abs/2204.05525) -tencent, CVPR2022, [code](https://github.com/hustvl/TopFormer)<br>
-[MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer](https://arxiv.org/abs/2110.02178) apple, ICLR2022, [code](https://github.com/apple/ml-cvnets)<br>
-TinyNet[Model Rubik's Cube: Twisting Resolution, Depth and Width for TinyNets](https://arxiv.org/abs/2010.14819) -huawei, NeurIPS2020<br>
-[GhostNet: More Features from Cheap Operations](https://arxiv.org/abs/1911.11907) -huawei, CVPR2020<br>
-EfficientNet<br>
-SqueezeNet<br>
-[Mobilenets](https://arxiv.org/abs/1704.04861) -google, arxiv2017<br>
-[MobileNet-V2](https://arxiv.org/abs/1801.04381) -google, CVPR2018 [caffe-code](https://github.com/austingg/MobileNet-v2-caffe)<br>
-MobileNetV3<br>
-[NasNet-A-Learning transferable architectures for scalable image recognition](https://arxiv.org/abs/1707.07012) -google brain, CoRR2017<br>
-[ShuffleNet](https://arxiv.org/abs/1707.01083) -megvii, CoRR2017<br>
-ShuffleNetV2<br>
-ThunderNet<br>
-DarkNet/Tiny YOLOv3/Tiny YOLOv2/Yolo-Nano/SlimYOLO/YOLO-LITE/Gaussian YOLOv3<br>
-[LightweightNet: Toward fast and lightweight convolutional neural networks via architecture distillation](https://www.sciencedirect.com/science/article/abs/pii/S0031320318303807) -XuTingbin, PR2019<br>
-Mobilefacenets<br>
-EXTD: Extremely Tiny Face Detector via Iterative Filter Reuse<br>
-Drop an octave: Reducing spatial redundancy in convolutional neural networks with octave convolution<br>
-HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs<br>
-Joint Architecture and Knowledge Distillation in Convolutional Neural Network for Offline Handwritten Chinese Text Recognition -dujun, arxiv2019
-Compressing CNN-DBLSTM models for OCR with teacher-student learning and Tucker decomposition -huoqiang, PR2019
-[vovnet](https://arxiv.org/abs/1904.09730)<br>
-http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_GPU-Computation_Efficient_Backbone_Network_for_Real-Time_Object_CVPRW_2019_paper.pdf
+  [Rethinking Vision Transformers for MobileNet Size and Speed](https://arxiv.org/abs/2212.08059) -Snap, arxiv2022, [code](https://github.com/snap-research/EfficientFormer)<br>
+  [UniFormer: Unified Transformer for Efficient Spatiotemporal Representation Learning](https://arxiv.org/abs/2201.04676) -ICLR2022,[code](https://github.com/Sense-X/UniFormer)<br>
+  [EdgeNeXt: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications](https://arxiv.org/abs/2206.10589) -arxiv2022, [code](https://github.com/mmaaz60/EdgeNeXt)<br>
+  [EfficientFormer: Vision Transformers at MobileNet Speed](https://arxiv.org/abs/2206.01191) -apple, arxiv2022, [code](https://github.com/snap-research/EfficientFormer)<br>
+  [UNeXt: MLP-based Rapid Medical Image Segmentation Network](https://arxiv.org/abs/2203.04967) -arxiv2022, [code](https://github.com/jeya-maria-jose/UNeXt-pytorch)<br>
+  [TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation](https://arxiv.org/abs/2204.05525) -tencent, CVPR2022, [code](https://github.com/hustvl/TopFormer)<br>
+  [MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer](https://arxiv.org/abs/2110.02178) apple, ICLR2022, [code](https://github.com/apple/ml-cvnets)<br>
+  TinyNet[Model Rubik's Cube: Twisting Resolution, Depth and Width for TinyNets](https://arxiv.org/abs/2010.14819) -huawei, NeurIPS2020<br>
+  [GhostNet: More Features from Cheap Operations](https://arxiv.org/abs/1911.11907) -huawei, CVPR2020<br>
+  EfficientNet<br>
+  SqueezeNet<br>
+  [Mobilenets](https://arxiv.org/abs/1704.04861) -google, arxiv2017<br>
+  [MobileNet-V2](https://arxiv.org/abs/1801.04381) -google, CVPR2018 [caffe-code](https://github.com/austingg/MobileNet-v2-caffe)<br>
+  MobileNetV3<br>
+  [NasNet-A-Learning transferable architectures for scalable image recognition](https://arxiv.org/abs/1707.07012) -google brain, CoRR2017<br>
+  [ShuffleNet](https://arxiv.org/abs/1707.01083) -megvii, CoRR2017<br>
+  ShuffleNetV2<br>
+  ThunderNet<br>
+  DarkNet/Tiny YOLOv3/Tiny YOLOv2/Yolo-Nano/SlimYOLO/YOLO-LITE/Gaussian YOLOv3<br>
+  [LightweightNet: Toward fast and lightweight convolutional neural networks via architecture distillation](https://www.sciencedirect.com/science/article/abs/pii/S0031320318303807) -XuTingbin, PR2019<br>
+  Mobilefacenets<br>
+  EXTD: Extremely Tiny Face Detector via Iterative Filter Reuse<br>
+  Drop an octave: Reducing spatial redundancy in convolutional neural networks with octave convolution<br>
+  HetConv: Heterogeneous Kernel-Based Convolutions for Deep CNNs<br>
+  Joint Architecture and Knowledge Distillation in Convolutional Neural Network for Offline Handwritten Chinese Text Recognition -dujun, arxiv2019
+  Compressing CNN-DBLSTM models for OCR with teacher-student learning and Tucker decomposition -huoqiang, PR2019
+  [vovnet](https://arxiv.org/abs/1904.09730)<br>
+  http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_GPU-Computation_Efficient_Backbone_Network_for_Real-Time_Object_CVPRW_2019_paper.pdf
 
 ## network
-[Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios](https://arxiv.org/abs/2207.05501) -bytedance, arxiv2022<br>
-[TRT-ViT: TensorRT-oriented Vision Transformer](https://arxiv.org/abs/2205.09579) -bytedance, arxiv2022<br>
+  [Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios](https://arxiv.org/abs/2207.05501) -bytedance, arxiv2022<br>
+  [TRT-ViT: TensorRT-oriented Vision Transformer](https://arxiv.org/abs/2205.09579) -bytedance, arxiv2022<br>
 
 ## model compression
-蒸馏：teacher-student/mutual-learning/Self-Distillation<br>
-张量分解：low-rank/SVD-decomposition/Tucker-decomposition/CP-decomposition<br>
-剪枝<br>
-量化<br>
-编码<br>
+  teacher-student/mutual-learning/Self-Distillation<br>
+  low-rank/SVD-decomposition/Tucker-decomposition/CP-decomposition<br>
 
 ## InformationExtraction
-[LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking](https://arxiv.org/abs/2204.08387) -microsoft, arxiv2022, [code](https://github.com/microsoft/unilm/tree/master/layoutlmv3)<br>
-[LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding](https://arxiv.org/abs/2202.13669) -jinlianwen, ACL2022, [code](https://github.com/jpWang/LiLT)<br>
-[XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding](https://arxiv.org/abs/2203.06947) -ant group, CVPR2022<br>
-[BROS: A Pre-trained Language Model Focusing on Text and Layout for Better Key Information Extraction from Documents](https://arxiv.org/abs/2108.04539) -naver, AAAI2022, [code](https://github.com/clovaai/bros)<br>
-[StructuralLM: Structural Pre-training for Form Understanding](https://arxiv.org/abs/2105.11210) -alibaba, ACL2021<br>
-[UniDoc: Unified Pretraining Framework for Document Understanding](https://proceedings.neurips.cc/paper/2021/hash/0084ae4bc24c0795d1e6a4f58444d39b-Abstract.html) -adobe, NeurIPS2021<br>
-[DocFormer: End-to-End Transformer for Document Understanding](https://openaccess.thecvf.com/content/ICCV2021/html/Appalaraju_DocFormer_End-to-End_Transformer_for_Document_Understanding_ICCV_2021_paper.html) -amazon, ICCV2021<br>
-[LayoutParser: A Unified Toolkit for Deep Learning Based Document Image Analysis](https://link.springer.com/chapter/10.1007/978-3-030-86549-8_9) -ICDAR2021<br>
-[Going Full-TILT Boogie on Document Understanding with Text-Image-Layout Transformer](https://arxiv.org/abs/2102.09550) -ICDAR2021<br>
-[Towards Robust Visual Information Extraction in Real World: New Dataset and Novel Solution](https://arxiv.org/abs/2102.06732) -jinlianwen, AAAI2021<br>
-[LayoutXLM: Multimodal Pre-training for Multilingual Visually-rich Document Understanding](https://arxiv.org/abs/2104.08836) -microsoft,arxiv2021<br>
-[LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding](https://arxiv.org/abs/2012.14740) -microsoft, ACL2021, [code](https://github.com/microsoft/unilm/tree/master/layoutlmv2)<br>
-[SelfDoc: Self-Supervised Document Representation Learning](https://arxiv.org/abs/2106.03331) -adobe, CVPR2021<br>
-[Going full-tilt boogie on document understanding with text-image-layout transformer](https://arxiv.org/abs/2102.09550) -ICDAR2021<br>
-[LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/abs/1912.13318) -microsoft, KDD2020, [code](https://github.com/microsoft/unilm/tree/master/layoutlm)<br>
-[TRIE: End-to-End Text Reading and Information Extraction for Document Understanding](https://arxiv.org/abs/2005.13118) -hikvision, arxiv2020<br>
+  [LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking](https://arxiv.org/abs/2204.08387) -microsoft, arxiv2022, [code](https://github.com/microsoft/unilm/tree/master/layoutlmv3)<br>
+  [LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding](https://arxiv.org/abs/2202.13669) -jinlianwen, ACL2022, [code](https://github.com/jpWang/LiLT)<br>
+  [XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding](https://arxiv.org/abs/2203.06947) -ant group, CVPR2022<br>
+  [BROS: A Pre-trained Language Model Focusing on Text and Layout for Better Key Information Extraction from Documents](https://arxiv.org/abs/2108.04539) -naver, AAAI2022, [code](https://github.com/clovaai/bros)<br>
+  [StructuralLM: Structural Pre-training for Form Understanding](https://arxiv.org/abs/2105.11210) -alibaba, ACL2021<br>
+  [UniDoc: Unified Pretraining Framework for Document Understanding](https://proceedings.neurips.cc/paper/2021/hash/0084ae4bc24c0795d1e6a4f58444d39b-Abstract.html) -adobe, NeurIPS2021<br>
+  [DocFormer: End-to-End Transformer for Document Understanding](https://openaccess.thecvf.com/content/ICCV2021/html/Appalaraju_DocFormer_End-to-End_Transformer_for_Document_Understanding_ICCV_2021_paper.html) -amazon, ICCV2021<br>
+  [LayoutParser: A Unified Toolkit for Deep Learning Based Document Image Analysis](https://link.springer.com/chapter/10.1007/978-3-030-86549-8_9) -ICDAR2021<br>
+  [Going Full-TILT Boogie on Document Understanding with Text-Image-Layout Transformer](https://arxiv.org/abs/2102.09550) -ICDAR2021<br>
+  [Towards Robust Visual Information Extraction in Real World: New Dataset and Novel Solution](https://arxiv.org/abs/2102.06732) -jinlianwen, AAAI2021<br>
+  [LayoutXLM: Multimodal Pre-training for Multilingual Visually-rich Document Understanding](https://arxiv.org/abs/2104.08836) -microsoft,arxiv2021<br>
+  [LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding](https://arxiv.org/abs/2012.14740) -microsoft, ACL2021, [code](https://github.com/microsoft/unilm/tree/master/layoutlmv2)<br>
+  [SelfDoc: Self-Supervised Document Representation Learning](https://arxiv.org/abs/2106.03331) -adobe, CVPR2021<br>
+  [Going full-tilt boogie on document understanding with text-image-layout transformer](https://arxiv.org/abs/2102.09550) -ICDAR2021<br>
+  [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/abs/1912.13318) -microsoft, KDD2020, [code](https://github.com/microsoft/unilm/tree/master/layoutlm)<br>
+  [TRIE: End-to-End Text Reading and Information Extraction for Document Understanding](https://arxiv.org/abs/2005.13118) -hikvision, arxiv2020<br>
 
 ## knowledge distillation
 [Decoupled Knowledge Distillation](https://arxiv.org/abs/2203.08679) -megvii, CVPR2022, [code](https://github.com/megvii-research/mdistiller)<br>
