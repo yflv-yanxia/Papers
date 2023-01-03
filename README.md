@@ -139,6 +139,7 @@
   [TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation](https://arxiv.org/abs/2204.05525) -tencent, CVPR2022, [code](https://github.com/hustvl/TopFormer)<br>
   [MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer](https://arxiv.org/abs/2110.02178) apple, ICLR2022, [code](https://github.com/apple/ml-cvnets)<br>
   [PP-LCNet: A Lightweight CPU Convolutional Neural Network](https://arxiv.org/abs/2109.15099) -baidu, arxiv2022<br>
+  [Metaformer is actually what you need for vision](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_MetaFormer_Is_Actually_What_You_Need_for_Vision_CVPR_2022_paper.html) -Yanshuicheng, CVPR2022<br>
   TinyNet[Model Rubik's Cube: Twisting Resolution, Depth and Width for TinyNets](https://arxiv.org/abs/2010.14819) -huawei, NeurIPS2020<br>
   [GhostNet: More Features from Cheap Operations](https://arxiv.org/abs/1911.11907) -huawei, CVPR2020<br>
   EfficientNet<br>
