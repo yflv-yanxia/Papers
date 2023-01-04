@@ -127,6 +127,7 @@
   Mixup<br>
 
 ## network
+  [CabViT: Cross Attention among Blocks for Vision Transformer](https://arxiv.org/abs/2211.07198) -Intellifusion, arxiv2022, [code](https://github.com/hkzhang91/CabViT)<br>
   EfficientFormerV2[Rethinking Vision Transformers for MobileNet Size and Speed](https://arxiv.org/abs/2212.08059) -Snap, arxiv2022, [code](https://github.com/snap-research/EfficientFormer)<br>
   [UniFormer: Unified Transformer for Efficient Spatiotemporal Representation Learning](https://arxiv.org/abs/2201.04676) -ICLR2022,[code](https://github.com/Sense-X/UniFormer)<br>
   [UniNet: Unified Architecture Search with Convolution, Transformer, and MLP](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_3) -sensetime, ECCV2022, [code](https://github.com/Sense-X/UniNet)<br>
