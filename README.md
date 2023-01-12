@@ -35,6 +35,7 @@
   [Deepdesrt: Deep learning for detection and structure recognition of tables in document images](https://ieeexplore.ieee.org/abstract/document/8270123) -ICDAR2017<br>
   
 ## mathematical expression recognition
+  [CCLSL: Combination of Contrastive Learning and Supervised Learning for Handwritten Mathematical Expression Recognition](https://openaccess.thecvf.com/content/ACCV2022/html/Lin_CCLSL_Combination_of_Contrastive_Learning_and_Supervised_Learning_for_Handwritten_ACCV_2022_paper.html) -ACCV2022<br>
   [Syntactic data generation for handwritten mathematical expression recognition](https://www.sciencedirect.com/science/article/abs/pii/S0167865521004293) -nakagawa, PRL2022, [code](https://github.com/thanhnghiadk/syntactic_HME_generation)<br>
   [TDv2: A Novel Tree-Structured Decoder for Offline Mathematical Expression Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/20172) -dujun, AAAI2022, [code](https://github.com/yqingli123/TDv2)<br>
   [CoMER: Modeling Coverage for Transformer-based Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2207.04410) -peking, ECCV2022, [code](https://github.com/Green-Wood/CoMER)<br>
