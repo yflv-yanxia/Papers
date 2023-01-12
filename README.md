@@ -201,6 +201,8 @@
 ## Document Rectification
 [Geometric Representation Learning for Document Image Rectification](https://arxiv.org/abs/2210.08161) -ECCV2022, [code](https://github.com/fh2019ustc/DocGeoNet)<br>
 [Fourier Document Restoration for Robust Document Dewarping and Recognition](http://arxiv-export-lb.library.cornell.edu/abs/2203.09910) -CVPR2022, bai song [database](https://sg-vilab.github.io/event/warpdoc/)<br>
+[Revisiting document image dewarping by grid regularization](https://openaccess.thecvf.com/content/CVPR2022/html/Jiang_Revisiting_Document_Image_Dewarping_by_Grid_Regularization_CVPR_2022_paper.html) -CVPR2022<br>
+[Doctr: Document image transformer for geometric unwarping and illumination correction](https://arxiv.org/abs/2110.12942) -MM2021, [code](https://github.com/fh2019ustc/DocTr)<br>
 [Document Dewarping with Control Points](https://arxiv.org/abs/2203.10543) -ICDAR2021, [code&dataset](https://github.com/gwxie/Document-Dewarping-with-Control-Points)<br>
 [Document Rectification and Illumination Correction using a Patch-based CNN](https://arxiv.org/abs/1909.09470) -SIGGRAPH2019, [code](https://github.com/HCIILAB/DocProj)<br>
 
