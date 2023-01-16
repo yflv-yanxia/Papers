@@ -199,10 +199,12 @@
 [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947) -Yoon Kim, EMNLP2016<br>
 
 ## Document Rectification
+[End-to-End Piece-Wise Unwarping of Document Images](https://openaccess.thecvf.com/content/ICCV2021/html/Das_End-to-End_Piece-Wise_Unwarping_of_Document_Images_ICCV_2021_paper.html) -amazon, ICCV2021, [code](https://github.com/sagniklp/PiecewiseUnwarp)<br>
 [Geometric Representation Learning for Document Image Rectification](https://arxiv.org/abs/2210.08161) -ECCV2022, [code](https://github.com/fh2019ustc/DocGeoNet)<br>
 [Marior: Margin Removal and Iterative Content Rectification for Document Dewarping in the Wild](https://arxiv.org/abs/2207.11515) -MM2022, jinlianwen, [code](https://github.com/ZZZHANG-jx/Marior)<br>
 [Fourier Document Restoration for Robust Document Dewarping and Recognition](http://arxiv-export-lb.library.cornell.edu/abs/2203.09910) -CVPR2022, bai song [database](https://sg-vilab.github.io/event/warpdoc/)<br>
 [Revisiting document image dewarping by grid regularization](https://openaccess.thecvf.com/content/CVPR2022/html/Jiang_Revisiting_Document_Image_Dewarping_by_Grid_Regularization_CVPR_2022_paper.html) -CVPR2022<br>
+[Learning From Documents in the Wild to Improve Document Unwarping](https://dl.acm.org/doi/abs/10.1145/3528233.3530756) -snap, SIGGRAPH2022, [code](https://github.com/cvlab-stonybrook/PaperEdge)<br>
 [Doctr: Document image transformer for geometric unwarping and illumination correction](https://arxiv.org/abs/2110.12942) -MM2021, [code](https://github.com/fh2019ustc/DocTr)<br>
 [Document Dewarping with Control Points](https://arxiv.org/abs/2203.10543) -ICDAR2021, [code&dataset](https://github.com/gwxie/Document-Dewarping-with-Control-Points)<br>
 [Document Rectification and Illumination Correction using a Patch-based CNN](https://arxiv.org/abs/1909.09470) -SIGGRAPH2019, [code](https://github.com/HCIILAB/DocProj)<br>
