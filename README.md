@@ -134,7 +134,7 @@
   [UniNet: Unified Architecture Search with Convolution, Transformer, and MLP](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_3) -sensetime, ECCV2022, [code](https://github.com/Sense-X/UniNet)<br>
   [EdgeNeXt: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications](https://arxiv.org/abs/2206.10589) -arxiv2022, [code](https://github.com/mmaaz60/EdgeNeXt)<br>
   [Edgevits: Competing light-weight cnns on mobile devices with vision transformers](https://link.springer.com/chapter/10.1007/978-3-031-20083-0_18) -ECCV2022,[code](https://github.com/saic-fi/edgevit)<br>
-  [Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios](https://arxiv.org/abs/2207.05501) -bytedance, arxiv2022<br>
+  [Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios](https://arxiv.org/abs/2207.05501) -bytedance, arxiv2022, [code](https://github.com/bytedance/Next-ViT)<br>
   [TRT-ViT: TensorRT-oriented Vision Transformer](https://arxiv.org/abs/2205.09579) -bytedance, arxiv2022<br>
   [EfficientFormer: Vision Transformers at MobileNet Speed](https://arxiv.org/abs/2206.01191) -snap, arxiv2022, [code](https://github.com/snap-research/EfficientFormer)<br>
   [UNeXt: MLP-based Rapid Medical Image Segmentation Network](https://arxiv.org/abs/2203.04967) -arxiv2022, [code](https://github.com/jeya-maria-jose/UNeXt-pytorch)<br>
