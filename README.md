@@ -189,6 +189,14 @@
   [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/abs/1912.13318) -microsoft, KDD2020, [code](https://github.com/microsoft/unilm/tree/master/layoutlm)<br>
   [TRIE: End-to-End Text Reading and Information Extraction for Document Understanding](https://arxiv.org/abs/2005.13118) -hikvision, arxiv2020<br>
 
+### database
+[EPHOIE](https://github.com/HCIILAB/EPHOIE) - visual information extraction (VIE) in educational documents<br>
+[PubLayNet] - pretrain <br>
+[RVL-CDIP][IIT-CDIP]- document classification<br>
+[FUNSD]<br>
+[CORD]- receipt sementic entity extraction<br>
+[DocVQA]<br>
+
 ## knowledge distillation
 [Decoupled Knowledge Distillation](https://arxiv.org/abs/2203.08679) -megvii, CVPR2022, [code](https://github.com/megvii-research/mdistiller)<br>
 [Efficient knowledge distillation for rnn-transducer models](https://ieeexplore.ieee.org/abstract/document/9413905) -google/facebook, ICASSP2021<br>
