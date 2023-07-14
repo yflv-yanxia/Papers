@@ -1,5 +1,6 @@
 # Papers
 ## layout
+  [M6Doc: A Large-Scale Multi-Format, Multi-Type, Multi-Layout, Multi-Language, Multi-Annotation Category Dataset for Modern Document Layout Analysis](https://openaccess.thecvf.com/content/CVPR2023/html/Cheng_M6Doc_A_Large-Scale_Multi-Format_Multi-Type_Multi-Layout_Multi-Language_Multi-Annotation_Category_Dataset_CVPR_2023_paper.html) -jinlianwen, CVPR2023, [dataset](https://github.com/HCIILAB/M6Doc)<br>
   [Page segmentation using convolutional neural network and graphical model](https://link.springer.com/chapter/10.1007/978-3-030-57058-3_17) -Lixiaohui, DAS2020<br>
   [Printed/Handwritten Texts and Graphics Separation in Complex Documents Using Conditional Random Fields](https://ieeexplore.ieee.org/abstract/document/8395186) -LiXiaohui, DAS2018<br> 
 
