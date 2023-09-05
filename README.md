@@ -212,6 +212,9 @@
 [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947) -Yoon Kim, EMNLP2016<br>
 
 ## Document Rectification
+[DocDiff: Document Enhancement via Residual Diffusion Models](https://arxiv.org/abs/2305.03892v1) -arxiv2023, [code](https://github.com/Royalvice/DocDiff)<br>
+
+## Document Rectification
 [DocScanner: Robust Document Image Rectication with Progressive Learning](https://arxiv.org/abs/2110.14968) -arxiv2021<br>
 [End-to-End Piece-Wise Unwarping of Document Images](https://openaccess.thecvf.com/content/ICCV2021/html/Das_End-to-End_Piece-Wise_Unwarping_of_Document_Images_ICCV_2021_paper.html) -amazon, ICCV2021, [code](https://github.com/sagniklp/PiecewiseUnwarp)<br>
 [Geometric Representation Learning for Document Image Rectification](https://arxiv.org/abs/2210.08161) -ECCV2022, [code](https://github.com/fh2019ustc/DocGeoNet)<br>
