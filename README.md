@@ -213,6 +213,7 @@
 
 ## Document Enhancement
 [NTIRE 2023 Challenge on Efficient Super-Resolution: Methods and Results](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.html) -CVPR2023<br>
+[Pyramid Attention Network for Image Restoration](https://link.springer.com/article/10.1007/s11263-023-01843-5) -IJCV2023, [code](https://github.com/SHI-Labs/Pyramid-Attention-Networks)<br>
 [NTIRE 2022 challenge on perceptual image quality assessment](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Gu_NTIRE_2022_Challenge_on_Perceptual_Image_Quality_Assessment_CVPRW_2022_paper.html)<br>
 [Learning Enriched Features for Fast Image Restoration and Enhancement](https://arxiv.org/pdf/2205.01649) -PAMI2022, [code](https://github.com/swz30/MIRNetv2)<br>
 [Efficient Long-Range Attention Network for Image Super-Resolution](https://arxiv.org/abs/2203.06697) -[code](https://github.com/xindongzhang/ELAN)<br>
