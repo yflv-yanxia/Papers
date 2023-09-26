@@ -212,6 +212,7 @@
 [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947) -Yoon Kim, EMNLP2016<br>
 
 ## Document Enhancement
+[NTIRE 2023 Challenge on Efficient Super-Resolution: Methods and Results](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.html) -CVPR2023<br>
 [Restormer: Efficient Transformer for High-Resolution Image Restoration](https://arxiv.org/abs/2111.09881) -google, CVPR2022, [code](https://github.com/swz30/Restormer)<br>
 [Simple baselines for image restoration](https://arxiv.org/pdf/2204.04676) -megvii, ECCV2022, [code](https://github.com/megvii-research/NAFNet)<br>
 [DocDiff: Document Enhancement via Residual Diffusion Models](https://arxiv.org/abs/2305.03892v1) -arxiv2023, [code](https://github.com/Royalvice/DocDiff)<br>
