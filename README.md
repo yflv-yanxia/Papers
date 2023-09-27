@@ -212,7 +212,7 @@
 [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947) -Yoon Kim, EMNLP2016<br>
 
 ## Document Enhancement
-[Beyond Monocular Deraining: Parallel Stereo Deraining Network Via Semantic Prior](https://link.springer.com/article/10.1007/s11263-022-01620-w)<br>
+
 [Efficient and Explicit Modelling of Image Hierarchies for Image Restoration](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Efficient_and_Explicit_Modelling_of_Image_Hierarchies_for_Image_Restoration_CVPR_2023_paper.html) -CVPR2023, [code](https://github.com/ofsoundof/GRL-Image-Restoration.git)<br>
 [LSDIR: A Large Scale Dataset for Image Restoration](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Li_LSDIR_A_Large_Scale_Dataset_for_Image_Restoration_CVPRW_2023_paper.html),[dataset](https://data.vision.ee.ethz.ch/yawli/index.html)<br>
 [NTIRE 2023 Image Shadow Removal Challenge Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Vasluianu_NTIRE_2023_Image_Shadow_Removal_Challenge_Report_CVPRW_2023_paper.html)<br>
@@ -224,6 +224,7 @@
 [DocDiff: Document Enhancement via Residual Diffusion Models](https://arxiv.org/abs/2305.03892v1) -arxiv2023, [code](https://github.com/Royalvice/DocDiff)<br>
 [Pyramid Attention Network for Image Restoration](https://link.springer.com/article/10.1007/s11263-023-01843-5) -IJCV2023, [code](https://github.com/SHI-Labs/Pyramid-Attention-Networks)<br>
 [Deep Image Deblurring: A Survey](https://arxiv.org/abs/2201.10700) -IJCV2022<br>
+[Beyond Monocular Deraining: Parallel Stereo Deraining Network Via Semantic Prior](https://link.springer.com/article/10.1007/s11263-022-01620-w) -tencent, IJCV2022, [code](https://github.com/HDCVLab/Stereo-Image-Deraining)<br>
 [Learning Degradation Representations for Image Deblurring](https://arxiv.org/pdf/2208.05244) -ECCV2022, [code](https://github.com/dasongli1/Learning_degradation)<br>
 [Stripformer: Strip transformer for fast image deblurring](https://arxiv.org/abs/2204.04627) -ECCV2022, tsinghua, [code](https://github.com/pp00704831/Stripformer-ECCV-2022-)<br>
 [Image De-raining Transformer](https://drive.google.com/file/d/1FY5K6yrHVJ_hZ0fIibaWx7RmZGYwWfUo/view) -PAMI2022<br>
