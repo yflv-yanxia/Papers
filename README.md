@@ -212,6 +212,7 @@
 [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947) -Yoon Kim, EMNLP2016<br>
 
 ## Document Enhancement
+[Beyond Monocular Deraining: Parallel Stereo Deraining Network Via Semantic Prior](https://link.springer.com/article/10.1007/s11263-022-01620-w)<br>
 [Efficient and Explicit Modelling of Image Hierarchies for Image Restoration](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Efficient_and_Explicit_Modelling_of_Image_Hierarchies_for_Image_Restoration_CVPR_2023_paper.html) -CVPR2023, [code](https://github.com/ofsoundof/GRL-Image-Restoration.git)<br>
 [LSDIR: A Large Scale Dataset for Image Restoration](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Li_LSDIR_A_Large_Scale_Dataset_for_Image_Restoration_CVPRW_2023_paper.html),[dataset](https://data.vision.ee.ethz.ch/yawli/index.html)<br>
 [NTIRE 2023 Image Shadow Removal Challenge Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Vasluianu_NTIRE_2023_Image_Shadow_Removal_Challenge_Report_CVPRW_2023_paper.html)<br>
@@ -220,6 +221,7 @@
 [Efficient Deep Models for Real-Time 4K Image Super-Resolution. NTIRE 2023 Benchmark and Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Conde_Efficient_Deep_Models_for_Real-Time_4K_Image_Super-Resolution._NTIRE_2023_CVPRW_2023_paper.html)<br>
 [NTIRE 2023 Challenge on Efficient Super-Resolution: Methods and Results](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.html) -CVPR2023<br>
 [U-Shape Transformer for Underwater Image Enhancement](https://arxiv.org/pdf/2111.11843) -TIP2023, [code](https://bianlab.github.io/)<br>
+[DocDiff: Document Enhancement via Residual Diffusion Models](https://arxiv.org/abs/2305.03892v1) -arxiv2023, [code](https://github.com/Royalvice/DocDiff)<br>
 [Pyramid Attention Network for Image Restoration](https://link.springer.com/article/10.1007/s11263-023-01843-5) -IJCV2023, [code](https://github.com/SHI-Labs/Pyramid-Attention-Networks)<br>
 [Deep Image Deblurring: A Survey](https://arxiv.org/abs/2201.10700) -IJCV2022<br>
 [Learning Degradation Representations for Image Deblurring](https://arxiv.org/pdf/2208.05244) -ECCV2022, [code](https://github.com/dasongli1/Learning_degradation)<br>
@@ -230,7 +232,6 @@
 [Efficient Long-Range Attention Network for Image Super-Resolution](https://arxiv.org/abs/2203.06697) -[code](https://github.com/xindongzhang/ELAN)<br>
 [Restormer: Efficient Transformer for High-Resolution Image Restoration](https://arxiv.org/abs/2111.09881) -google, CVPR2022, [code](https://github.com/swz30/Restormer)<br>
 [Simple baselines for image restoration](https://arxiv.org/pdf/2204.04676) -megvii, ECCV2022, [code](https://github.com/megvii-research/NAFNet)<br>
-[DocDiff: Document Enhancement via Residual Diffusion Models](https://arxiv.org/abs/2305.03892v1) -arxiv2023, [code](https://github.com/Royalvice/DocDiff)<br>
 [Real-esrgan: Training real-world blind super-resolution with pure synthetic data](https://openaccess.thecvf.com/content/ICCV2021W/AIM/html/Wang_Real-ESRGAN_Training_Real-World_Blind_Super-Resolution_With_Pure_Synthetic_Data_ICCVW_2021_paper.html) -tencent, ICCV2021, [code](https://github.com/xinntao/Real-ESRGAN)<br>
 [Edge-oriented Convolution Block for Real-time Super Resolution on Mobile Devices](https://www4.comp.polyu.edu.hk/~cslzhang/paper/MM21_ECBSR.pdf) -alibaba, ACMMM2021[code](https://github.com/xindongzhang/ECBSR)<br>
 [SplitSR: An End-to-End Approach to Super-Resolution on Mobile Devices](https://arxiv.org/abs/2101.07996) -arxiv2021, [code](https://github.com/deepconsc/SplitSR)<br>
