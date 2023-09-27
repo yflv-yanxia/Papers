@@ -212,6 +212,7 @@
 [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947) -Yoon Kim, EMNLP2016<br>
 
 ## Document Enhancement
+[NTIRE 2023 Image Shadow Removal Challenge Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Vasluianu_NTIRE_2023_Image_Shadow_Removal_Challenge_Report_CVPRW_2023_paper.html)<br>
 [Ultra-High-Definition Low-Light Image Enhancement: A Benchmark and Transformer-Based Method](https://arxiv.org/abs/2212.11548) -AAAI2023, [code](https://github.com/TaoWangzj/LLFormer)<br>
 [NTIRE 2023 Challenge on Image Denoising: Methods and Results](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Li_NTIRE_2023_Challenge_on_Image_Denoising_Methods_and_Results_CVPRW_2023_paper.html)<br>
 [Deep Image Deblurring: A Survey](https://arxiv.org/abs/2201.10700) -IJCV2022<br>
