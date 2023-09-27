@@ -212,7 +212,7 @@
 [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947) -Yoon Kim, EMNLP2016<br>
 
 ## Document Enhancement
-[Efficient and Explicit Modelling of Image Hierarchies for Image Restoration](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Efficient_and_Explicit_Modelling_of_Image_Hierarchies_for_Image_Restoration_CVPR_2023_paper.html) -CVPR2023, [code](https://github.com/ofsoundof/GRL-Image-Restoration.git)
+[Efficient and Explicit Modelling of Image Hierarchies for Image Restoration](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Efficient_and_Explicit_Modelling_of_Image_Hierarchies_for_Image_Restoration_CVPR_2023_paper.html) -CVPR2023, [code](https://github.com/ofsoundof/GRL-Image-Restoration.git)<br>
 [NTIRE 2023 Image Shadow Removal Challenge Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Vasluianu_NTIRE_2023_Image_Shadow_Removal_Challenge_Report_CVPRW_2023_paper.html)<br>
 [Ultra-High-Definition Low-Light Image Enhancement: A Benchmark and Transformer-Based Method](https://arxiv.org/abs/2212.11548) -AAAI2023, [code](https://github.com/TaoWangzj/LLFormer)<br>
 [NTIRE 2023 Challenge on Image Denoising: Methods and Results](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Li_NTIRE_2023_Challenge_on_Image_Denoising_Methods_and_Results_CVPRW_2023_paper.html)<br>
