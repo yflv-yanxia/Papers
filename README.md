@@ -212,7 +212,7 @@
 [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947) -Yoon Kim, EMNLP2016<br>
 
 ## Document Enhancement
-
+[Efficient Deep Models for Real-Time 4K Image Super-Resolution. NTIRE 2023 Benchmark and Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Conde_Efficient_Deep_Models_for_Real-Time_4K_Image_Super-Resolution._NTIRE_2023_CVPRW_2023_paper.html)<br>
 [NTIRE 2023 Challenge on Efficient Super-Resolution: Methods and Results](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.html) -CVPR2023<br>
 [U-Shape Transformer for Underwater Image Enhancement](https://arxiv.org/pdf/2111.11843) -TIP2023, [code](https://bianlab.github.io/)<br>
 [Pyramid Attention Network for Image Restoration](https://link.springer.com/article/10.1007/s11263-023-01843-5) -IJCV2023, [code](https://github.com/SHI-Labs/Pyramid-Attention-Networks)<br>
