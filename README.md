@@ -251,13 +251,14 @@
 [BEDSR-Net: A Deep Shadow Removal Network From a Single Document Image](https://openaccess.thecvf.com/content_CVPR_2020/html/Lin_BEDSR-Net_A_Deep_Shadow_Removal_Network_From_a_Single_Document_CVPR_2020_paper.html) -CVPR2020, [code](https://github.com/IsHYuhi/BEDSR-Net_A_Deep_Shadow_Removal_Network_from_a_Single_Document_Image)<br>
 
 ## Document Rectification
-[DocScanner: Robust Document Image Rectication with Progressive Learning](https://arxiv.org/abs/2110.14968) -arxiv2021<br>
+[Deep Unrestricted Document Image Rectification](https://arxiv.org/abs/2304.08796) -arxiv2023, [code](https://github.com/fh2019ustc/DocTr-Plus)<br>
 [End-to-End Piece-Wise Unwarping of Document Images](https://openaccess.thecvf.com/content/ICCV2021/html/Das_End-to-End_Piece-Wise_Unwarping_of_Document_Images_ICCV_2021_paper.html) -amazon, ICCV2021, [code](https://github.com/sagniklp/PiecewiseUnwarp)<br>
 [Geometric Representation Learning for Document Image Rectification](https://arxiv.org/abs/2210.08161) -ECCV2022, [code](https://github.com/fh2019ustc/DocGeoNet)<br>
 [Marior: Margin Removal and Iterative Content Rectification for Document Dewarping in the Wild](https://arxiv.org/abs/2207.11515) -MM2022, jinlianwen, [code](https://github.com/ZZZHANG-jx/Marior)<br>
 [Fourier Document Restoration for Robust Document Dewarping and Recognition](http://arxiv-export-lb.library.cornell.edu/abs/2203.09910) -CVPR2022, bai song [database](https://sg-vilab.github.io/event/warpdoc/)<br>
 [Revisiting document image dewarping by grid regularization](https://openaccess.thecvf.com/content/CVPR2022/html/Jiang_Revisiting_Document_Image_Dewarping_by_Grid_Regularization_CVPR_2022_paper.html) -alibaba,CVPR2022,[code](https://github.com/XiangWeiJiang/Document_Geometry_Dewarping)<br>
 [Learning From Documents in the Wild to Improve Document Unwarping](https://dl.acm.org/doi/abs/10.1145/3528233.3530756) -snap, SIGGRAPH2022, [code](https://github.com/cvlab-stonybrook/PaperEdge)<br>
+[DocScanner: Robust Document Image Rectication with Progressive Learning](https://arxiv.org/abs/2110.14968) -arxiv2021<br>
 [Doctr: Document image transformer for geometric unwarping and illumination correction](https://arxiv.org/abs/2110.12942) -MM2021, [code](https://github.com/fh2019ustc/DocTr)<br>
 [Document Dewarping with Control Points](https://arxiv.org/abs/2203.10543) -ICDAR2021, [code&dataset](https://github.com/gwxie/Document-Dewarping-with-Control-Points)<br>
 [Document Rectification and Illumination Correction using a Patch-based CNN](https://arxiv.org/abs/1909.09470) -SIGGRAPH2019, [code](https://github.com/HCIILAB/DocProj)<br>
