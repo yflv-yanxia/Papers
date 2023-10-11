@@ -263,6 +263,10 @@
 [Document Dewarping with Control Points](https://arxiv.org/abs/2203.10543) -ICDAR2021, [code&dataset](https://github.com/gwxie/Document-Dewarping-with-Control-Points)<br>
 [Document Rectification and Illumination Correction using a Patch-based CNN](https://arxiv.org/abs/1909.09470) -SIGGRAPH2019, [code](https://github.com/HCIILAB/DocProj)<br>
 
+## Inpainting
+[Aggregated Contextual Transformations for High-Resolution Image Inpainting](https://arxiv.org/abs/2104.01431) -arxiv2021, [code](https://github.com/researchmm/AOT-GAN-for-Inpainting)<br>
+[Free-Form Image Inpainting with Gated Convolution](https://arxiv.org/abs/1806.03589) -bytedance, ICCV2019, [code](https://github.com/JiahuiYu/generative_inpainting)<br>
+
 ## Graph
 [Joint stroke classification and text line grouping in online handwritten documents with edge pooling attention networks](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000467) -PR2021<br>
 [A Comprehensive Survey on Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/9046288) -TNN2020<br>
