@@ -251,6 +251,7 @@
 [WDNet: Watermark-Decomposition Network for Visible Watermark Removal](https://arxiv.org/abs/2012.07616) -baixiang, WACV2021, [database/code](https://github.com/MRUIL/WDNet)<br>
 [High Resolution Demoire Network](https://ieeexplore.ieee.org/abstract/document/9191255) -ICIP2020, [code](https://github.com/Rheaaaaayy/HRDN-DEMOIRE)<br>
 [BEDSR-Net: A Deep Shadow Removal Network From a Single Document Image](https://openaccess.thecvf.com/content_CVPR_2020/html/Lin_BEDSR-Net_A_Deep_Shadow_Removal_Network_From_a_Single_Document_CVPR_2020_paper.html) -CVPR2020, [code](https://github.com/IsHYuhi/BEDSR-Net_A_Deep_Shadow_Removal_Network_from_a_Single_Document_Image)<br>
+[DE-GAN: A Conditional Generative Adversarial Network for Document Enhancement](https://arxiv.org/abs/2010.08764) -PAMI2020, [code](https://github.com/dali92002/DE-GAN)<br>
 
 ## Document Rectification
 [Deep Unrestricted Document Image Rectification](https://arxiv.org/abs/2304.08796) -arxiv2023, [code](https://github.com/fh2019ustc/DocTr-Plus)<br>
