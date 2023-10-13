@@ -229,6 +229,7 @@
 [Learning Degradation Representations for Image Deblurring](https://arxiv.org/abs/2208.05244) -ECCV2022, [code](https://github.com/dasongli1/Learning_degradation)<br>
 [Stripformer: Strip transformer for fast image deblurring](https://arxiv.org/abs/2204.04627) -ECCV2022, tsinghua-tw, [code](https://github.com/pp00704831/Stripformer-ECCV-2022-)<br>
 [Image De-raining Transformer](https://drive.google.com/file/d/1FY5K6yrHVJ_hZ0fIibaWx7RmZGYwWfUo/view) -PAMI2022<br>
+[C3-stisr: Scene text image super-resolution with triple clues](https://arxiv.org/abs/2204.14044) -arxiv2022, bytedance, [code](https://github.com/zhaominyiz/C3-STISR)<br>
 [NTIRE 2022 challenge on perceptual image quality assessment](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Gu_NTIRE_2022_Challenge_on_Perceptual_Image_Quality_Assessment_CVPRW_2022_paper.html)<br>
 [Learning Enriched Features for Fast Image Restoration and Enhancement](https://arxiv.org/abs/2205.01649) -PAMI2022, [code](https://github.com/swz30/MIRNetv2)<br>
 [Efficient Long-Range Attention Network for Image Super-Resolution](https://arxiv.org/abs/2203.06697) -[code](https://github.com/xindongzhang/ELAN)<br>
