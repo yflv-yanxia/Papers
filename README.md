@@ -220,6 +220,8 @@
 [NTIRE 2023 Image Shadow Removal Challenge Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Vasluianu_NTIRE_2023_Image_Shadow_Removal_Challenge_Report_CVPRW_2023_paper.html)<br>
 [Ultra-High-Definition Low-Light Image Enhancement: A Benchmark and Transformer-Based Method](https://arxiv.org/abs/2212.11548) -AAAI2023, [code](https://github.com/TaoWangzj/LLFormer)<br>
 [NTIRE 2023 Challenge on Image Denoising: Methods and Results](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Li_NTIRE_2023_Challenge_on_Image_Denoising_Methods_and_Results_CVPRW_2023_paper.html)<br>
+[Towards Real-Time 4K Image Super-Resolution](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Zamfir_Towards_Real-Time_4K_Image_Super-Resolution_CVPRW_2023_paper.html) -cvprw2023<br>
+[Lightweight Real-Time Image Super-Resolution Network for 4K Images](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Gankhuyag_Lightweight_Real-Time_Image_Super-Resolution_Network_for_4K_Images_CVPRW_2023_paper.html) -cvprw2023, [code](https://github.com/Ganzooo/LRSRN.git)<br>
 [Efficient Deep Models for Real-Time 4K Image Super-Resolution. NTIRE 2023 Benchmark and Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Conde_Efficient_Deep_Models_for_Real-Time_4K_Image_Super-Resolution._NTIRE_2023_CVPRW_2023_paper.html)<br>
 [NTIRE 2023 Challenge on Efficient Super-Resolution: Methods and Results](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.html) -CVPR2023<br>
 [U-Shape Transformer for Underwater Image Enhancement](https://arxiv.org/abs/2111.11843) -TIP2023, [code](https://bianlab.github.io/)<br>
