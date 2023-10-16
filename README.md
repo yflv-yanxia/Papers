@@ -256,6 +256,7 @@
 [DE-GAN: A Conditional Generative Adversarial Network for Document Enhancement](https://arxiv.org/abs/2010.08764) -PAMI2020, [code](https://github.com/dali92002/DE-GAN)<br>
 
 ## Document Rectification
+[MataDoc: Margin and Text Aware Document Dewarping for Arbitrary Boundary](https://arxiv.org/abs/2307.12571) -baidu, arxiv2023<br>
 [Deep Unrestricted Document Image Rectification](https://arxiv.org/abs/2304.08796) -arxiv2023, [code](https://github.com/fh2019ustc/DocTr-Plus)<br>
 [End-to-End Piece-Wise Unwarping of Document Images](https://openaccess.thecvf.com/content/ICCV2021/html/Das_End-to-End_Piece-Wise_Unwarping_of_Document_Images_ICCV_2021_paper.html) -amazon, ICCV2021, [code](https://github.com/sagniklp/PiecewiseUnwarp)<br>
 [Geometric Representation Learning for Document Image Rectification](https://arxiv.org/abs/2210.08161) -ECCV2022, [code](https://github.com/fh2019ustc/DocGeoNet)<br>
