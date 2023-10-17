@@ -212,7 +212,7 @@
 [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947) -Yoon Kim, EMNLP2016<br>
 
 ## Document Enhancement
-[A COMPREHENSIVE SURVEY ON DEEP NEURAL IMAGE DEBLURRING](https://arxiv.org/pdf/2310.04719.pdf) -arxiv2023<br>
+[A Comprehensive Survey on Deep Neural Image Deblurring](https://arxiv.org/pdf/2310.04719.pdf) -arxiv2023<br>
 [Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement](https://arxiv.org/abs/2303.06705) -tsinghua, ICCV2023, [code](https://github.com/caiyuanhao1998/Retinexformer)<br> 
 [High-Resolution Document Shadow Removal via A Large-Scale Real-World Dataset and A Frequency-Aware Shadow Erasing Net](https://arxiv.org/abs/2308.14221) -ICCV2023, [code](https://github.com/CXH-Research/DocShadow-SD7K)<br>
 [Efficient and Explicit Modelling of Image Hierarchies for Image Restoration](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Efficient_and_Explicit_Modelling_of_Image_Hierarchies_for_Image_Restoration_CVPR_2023_paper.html) -CVPR2023, [code](https://github.com/ofsoundof/GRL-Image-Restoration.git)<br>
@@ -224,6 +224,7 @@
 [NTIRE 2023 Challenge on Image Denoising: Methods and Results](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Li_NTIRE_2023_Challenge_on_Image_Denoising_Methods_and_Results_CVPRW_2023_paper.html)<br>
 [Towards Real-Time 4K Image Super-Resolution](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Zamfir_Towards_Real-Time_4K_Image_Super-Resolution_CVPRW_2023_paper.html) -cvprw2023<br>
 [Lightweight Real-Time Image Super-Resolution Network for 4K Images](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Gankhuyag_Lightweight_Real-Time_Image_Super-Resolution_Network_for_4K_Images_CVPRW_2023_paper.html) -cvprw2023, [code](https://github.com/Ganzooo/LRSRN.git)<br>
+[Bicubic++: Slim, Slimmer, Slimmest - Designing an Industry-Grade Super-Resolution Network](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Bilecen_Bicubic_Slim_Slimmer_Slimmest_-_Designing_an_Industry-Grade_Super-Resolution_Network_CVPRW_2023_paper.html) -CVPRW2023<br>
 [Efficient Deep Models for Real-Time 4K Image Super-Resolution. NTIRE 2023 Benchmark and Report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Conde_Efficient_Deep_Models_for_Real-Time_4K_Image_Super-Resolution._NTIRE_2023_CVPRW_2023_paper.html)<br>
 [NTIRE 2023 Challenge on Efficient Super-Resolution: Methods and Results](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.html) -CVPR2023<br>
 [U-Shape Transformer for Underwater Image Enhancement](https://arxiv.org/abs/2111.11843) -TIP2023, [code](https://bianlab.github.io/)<br>
