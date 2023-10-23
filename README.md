@@ -241,6 +241,7 @@
 [NTIRE 2022 challenge on perceptual image quality assessment](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Gu_NTIRE_2022_Challenge_on_Perceptual_Image_Quality_Assessment_CVPRW_2022_paper.html)<br>
 [Learning Enriched Features for Fast Image Restoration and Enhancement](https://arxiv.org/abs/2205.01649) -PAMI2022, [code](https://github.com/swz30/MIRNetv2)<br>
 [Efficient Long-Range Attention Network for Image Super-Resolution](https://arxiv.org/abs/2203.06697) -[code](https://github.com/xindongzhang/ELAN)<br>
+[Improving Image Restoration by Revisiting Global Information Aggregation](https://link.springer.com/chapter/10.1007/978-3-031-20071-7_4) -megvii, ECCV2022, [code](https://github.com/megvii-research/tlc)<br>
 [Simple baselines for image restoration](https://arxiv.org/abs/2204.04676) -megvii, ECCV2022, [code](https://github.com/megvii-research/NAFNet)<br>
 [Restormer: Efficient Transformer for High-Resolution Image Restoration](https://arxiv.org/abs/2111.09881) -google, CVPR2022, [code](https://github.com/swz30/Restormer)<br>
 [Real-esrgan: Training real-world blind super-resolution with pure synthetic data](https://openaccess.thecvf.com/content/ICCV2021W/AIM/html/Wang_Real-ESRGAN_Training_Real-World_Blind_Super-Resolution_With_Pure_Synthetic_Data_ICCVW_2021_paper.html) -tencent, ICCV2021, [code](https://github.com/xinntao/Real-ESRGAN)<br>
