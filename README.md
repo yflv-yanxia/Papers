@@ -212,6 +212,7 @@
 [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947) -Yoon Kim, EMNLP2016<br>
 
 ## Document Enhancement
+[HQ-50K: A Large-scale, High-quality Dataset for Image Restoration](https://arxiv.org/abs/2306.05390) -[code&dataset](https://github.com/littleYaang/HQ-50K)<br>
 [DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior](https://arxiv.org/abs/2308.15070v1) -arxiv2023, [code](https://github.com/XPixelGroup/DiffBIR)<br>
 [A Comprehensive Survey on Deep Neural Image Deblurring](https://arxiv.org/pdf/2310.04719.pdf) -arxiv2023<br>
 [Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement](https://arxiv.org/abs/2303.06705) -tsinghua, ICCV2023, [code](https://github.com/caiyuanhao1998/Retinexformer)<br> 
