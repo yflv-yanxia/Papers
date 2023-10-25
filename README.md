@@ -212,6 +212,7 @@
 [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947) -Yoon Kim, EMNLP2016<br>
 
 ## Document Enhancement
+[DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior](https://arxiv.org/abs/2308.15070v1) -arxiv2023, [code](https://github.com/XPixelGroup/DiffBIR)<br>
 [A Comprehensive Survey on Deep Neural Image Deblurring](https://arxiv.org/pdf/2310.04719.pdf) -arxiv2023<br>
 [Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement](https://arxiv.org/abs/2303.06705) -tsinghua, ICCV2023, [code](https://github.com/caiyuanhao1998/Retinexformer)<br> 
 [High-Resolution Document Shadow Removal via A Large-Scale Real-World Dataset and A Frequency-Aware Shadow Erasing Net](https://arxiv.org/abs/2308.14221) -ICCV2023, [code](https://github.com/CXH-Research/DocShadow-SD7K)<br>
