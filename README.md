@@ -266,6 +266,7 @@
 [High Resolution Demoire Network](https://ieeexplore.ieee.org/abstract/document/9191255) -ICIP2020, [code](https://github.com/Rheaaaaayy/HRDN-DEMOIRE)<br>
 [BEDSR-Net: A Deep Shadow Removal Network From a Single Document Image](https://openaccess.thecvf.com/content_CVPR_2020/html/Lin_BEDSR-Net_A_Deep_Shadow_Removal_Network_From_a_Single_Document_CVPR_2020_paper.html) -CVPR2020, [code](https://github.com/IsHYuhi/BEDSR-Net_A_Deep_Shadow_Removal_Network_from_a_Single_Document_Image)<br>
 [DE-GAN: A Conditional Generative Adversarial Network for Document Enhancement](https://arxiv.org/abs/2010.08764) -PAMI2020, [code](https://github.com/dali92002/DE-GAN)<br>
+[Deblurring by Realistic Blurring](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Deblurring_by_Realistic_Blurring_CVPR_2020_paper.html) -tencent, CVPR2020,[code](https://github.com/HDCVLab/Deblurring-by-Realistic-Blurring)<br>
 
 ## Document Rectification
 [MataDoc: Margin and Text Aware Document Dewarping for Arbitrary Boundary](https://arxiv.org/abs/2307.12571) -baidu, arxiv2023<br>
