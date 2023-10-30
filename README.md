@@ -234,6 +234,7 @@
 [DocDiff: Document Enhancement via Residual Diffusion Models](https://arxiv.org/abs/2305.03892v1) -arxiv2023, [code](https://github.com/Royalvice/DocDiff)<br>
 [Pyramid Attention Network for Image Restoration](https://link.springer.com/article/10.1007/s11263-023-01843-5) -IJCV2023, [code](https://github.com/SHI-Labs/Pyramid-Attention-Networks)<br>
 [Perceptual Image Enhancement for Smartphone Real-Time Applications](https://arxiv.org/abs/2210.13552) -WACV2023, [code](https://github.com/mv-lab/AISP/tree/main)<br>
+[Realistic blur synthesis for learning image deblurring](https://arxiv.org/abs/2202.08771) -ECCV2022, [code](https://github.com/rimchang/RSBlur)<br>
 [Deep Image Deblurring: A Survey](https://arxiv.org/abs/2201.10700) -IJCV2022<br>
 [Beyond Monocular Deraining: Parallel Stereo Deraining Network Via Semantic Prior](https://link.springer.com/article/10.1007/s11263-022-01620-w) -tencent, IJCV2022, [code](https://github.com/HDCVLab/Stereo-Image-Deraining)<br>
 [Learning Degradation Representations for Image Deblurring](https://arxiv.org/abs/2208.05244) -ECCV2022, [code](https://github.com/dasongli1/Learning_degradation)<br>
