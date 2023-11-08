@@ -248,6 +248,7 @@
 [NAFSSR: Stereo Image Super-Resolution Using NAFNet](https://arxiv.org/abs/2204.08714) -megvii, CVPR2022, [code](https://github.com/megvii-research/NAFNet)<br>
 [Simple baselines for image restoration](https://arxiv.org/abs/2204.04676) -megvii, ECCV2022, [code](https://github.com/megvii-research/NAFNet)<br>
 [Restormer: Efficient Transformer for High-Resolution Image Restoration](https://arxiv.org/abs/2111.09881) -google, CVPR2022, [code](https://github.com/swz30/Restormer)<br>
+[MAXIM: Multi-Axis MLP for Image Processing](https://arxiv.org/abs/2201.02973) -google, CVPR2022,[code](https://github.com/google-research/maxim)<br>
 [Towards Efficient and Scale-Robust Ultra-High-Definition Image Demoireing](https://arxiv.org/abs/2207.09935) -TCL, ECCV2022, [database/code](https://xinyu-andy.github.io/uhdm-page/)<br>
 [Global-Local Stepwise Generative Network for Ultra High-Resolution Image Restoration](https://arxiv.org/abs/2207.08808?context=cs) -arxiv2022<br>
 [Real-esrgan: Training real-world blind super-resolution with pure synthetic data](https://openaccess.thecvf.com/content/ICCV2021W/AIM/html/Wang_Real-ESRGAN_Training_Real-World_Blind_Super-Resolution_With_Pure_Synthetic_Data_ICCVW_2021_paper.html) -tencent, ICCV2021, [code](https://github.com/xinntao/Real-ESRGAN)<br>
