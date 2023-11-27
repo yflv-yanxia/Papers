@@ -278,6 +278,7 @@
 
 ## Document Rectification
 [MataDoc: Margin and Text Aware Document Dewarping for Arbitrary Boundary](https://arxiv.org/abs/2307.12571) -baidu, arxiv2023<br>
+[DocAligner: Annotating Real-world Photographic Document Images by Simply Taking Pictures](https://arxiv.org/abs/2306.05749) -jinlianwen, arxiv2023, [code](https://github.com/ZZZHANG-jx/DocAligner)<br>
 [Deep Unrestricted Document Image Rectification](https://arxiv.org/abs/2304.08796) -arxiv2023, [code](https://github.com/fh2019ustc/DocTr-Plus)<br>
 [End-to-End Piece-Wise Unwarping of Document Images](https://openaccess.thecvf.com/content/ICCV2021/html/Das_End-to-End_Piece-Wise_Unwarping_of_Document_Images_ICCV_2021_paper.html) -amazon, ICCV2021, [code](https://github.com/sagniklp/PiecewiseUnwarp)<br>
 [Geometric Representation Learning for Document Image Rectification](https://arxiv.org/abs/2210.08161) -ECCV2022, [code](https://github.com/fh2019ustc/DocGeoNet)<br>
