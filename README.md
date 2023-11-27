@@ -254,6 +254,7 @@
 [MAXIM: Multi-Axis MLP for Image Processing](https://arxiv.org/abs/2201.02973) -google, CVPR2022,[code](https://github.com/google-research/maxim)<br>
 [Towards Efficient and Scale-Robust Ultra-High-Definition Image Demoireing](https://arxiv.org/abs/2207.09935) -TCL, ECCV2022, [database/code](https://xinyu-andy.github.io/uhdm-page/)<br>
 [Global-Local Stepwise Generative Network for Ultra High-Resolution Image Restoration](https://arxiv.org/abs/2207.08808?context=cs) -arxiv2022<br>
+[Practical Blind Image Denoising via Swin-Conv-UNet and Data Synthesis](https://arxiv.org/abs/2203.13278) -arxiv2022, [code](https://github.com/cszn/SCUNet)<br>
 [Real-esrgan: Training real-world blind super-resolution with pure synthetic data](https://openaccess.thecvf.com/content/ICCV2021W/AIM/html/Wang_Real-ESRGAN_Training_Real-World_Blind_Super-Resolution_With_Pure_Synthetic_Data_ICCVW_2021_paper.html) -tencent, ICCV2021, [code](https://github.com/xinntao/Real-ESRGAN)<br>
 [Edge-oriented Convolution Block for Real-time Super Resolution on Mobile Devices](https://www4.comp.polyu.edu.hk/~cslzhang/paper/MM21_ECBSR.pdf) -alibaba, ACMMM2021[code](https://github.com/xindongzhang/ECBSR)<br>
 [SplitSR: An End-to-End Approach to Super-Resolution on Mobile Devices](https://arxiv.org/abs/2101.07996) -arxiv2021, [code](https://github.com/deepconsc/SplitSR)<br>
