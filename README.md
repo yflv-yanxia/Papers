@@ -294,6 +294,11 @@
 [DocAligner: Annotating Real-world Photographic Document Images by Simply Taking Pictures](https://arxiv.org/abs/2306.05749) -jinlianwen, arxiv2023, [code](https://github.com/ZZZHANG-jx/DocAligner)<br>
 
 ## Inpainting
+[Inpaint Anything: Segment Anything Meets Image Inpainting](https://arxiv.org/abs/2304.06790) -arxiv2023, [code](https://github.com/geekyutao/Inpaint-Anything)<br>
+[LAMA:Resolution-Robust Large Mask Inpainting With Fourier Convolutions](https://openaccess.thecvf.com/content/WACV2022/html/Suvorov_Resolution-Robust_Large_Mask_Inpainting_With_Fourier_Convolutions_WACV_2022_paper.html) -samsung, WACV2022, [code](https://github.com/advimman/lama)<br>
+[RePaint: Inpainting Using Denoising Diffusion Probabilistic Models](https://openaccess.thecvf.com/content/CVPR2022/html/Lugmayr_RePaint_Inpainting_Using_Denoising_Diffusion_Probabilistic_Models_CVPR_2022_paper.html) -CVPR2022, [code](https://github.com/andreas128/RePaint)<br>
+[MAT: Mask-Aware Transformer for Large Hole Image Inpainting](https://openaccess.thecvf.com/content/CVPR2022/html/Li_MAT_Mask-Aware_Transformer_for_Large_Hole_Image_Inpainting_CVPR_2022_paper.html) -adobe, CVPR2022, [code](https://github.com/fenglinglwb/MAT)<br>
+[Incremental Transformer Structure Enhanced Image Inpainting With Masking Positional Encoding](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Incremental_Transformer_Structure_Enhanced_Image_Inpainting_With_Masking_Positional_Encoding_CVPR_2022_paper.html) -CVPR2022, [code](https://github.com/DQiaole/ZITS_inpainting)<br>
 [Aggregated Contextual Transformations for High-Resolution Image Inpainting](https://arxiv.org/abs/2104.01431) -arxiv2021, [code](https://github.com/researchmm/AOT-GAN-for-Inpainting)<br>
 [Free-Form Image Inpainting with Gated Convolution](https://arxiv.org/abs/1806.03589) -bytedance, ICCV2019, [code](https://github.com/JiahuiYu/generative_inpainting)<br>
 
