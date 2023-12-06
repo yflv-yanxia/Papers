@@ -290,7 +290,7 @@
 [Document Dewarping with Control Points](https://arxiv.org/abs/2203.10543) -ICDAR2021, [code&dataset](https://github.com/gwxie/Document-Dewarping-with-Control-Points)<br>
 [Document Rectification and Illumination Correction using a Patch-based CNN](https://arxiv.org/abs/1909.09470) -SIGGRAPH2019, [code](https://github.com/HCIILAB/DocProj)<br>
 
-## image alignment
+## image alignment/registration
 [DocAligner: Annotating Real-world Photographic Document Images by Simply Taking Pictures](https://arxiv.org/abs/2306.05749) -jinlianwen, arxiv2023, [code](https://github.com/ZZZHANG-jx/DocAligner)<br>
 
 ## Inpainting
