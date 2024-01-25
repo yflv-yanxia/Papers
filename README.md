@@ -265,6 +265,7 @@
 [A Survey on Deep learning based Document Image Enhancement](https://arxiv.org/abs/2112.02719) -arxiv2021<br>
 [Iterative filter adaptive network for single image defocus deblurring](https://openaccess.thecvf.com/content/CVPR2021/html/Lee_Iterative_Filter_Adaptive_Network_for_Single_Image_Defocus_Deblurring_CVPR_2021_paper.html) -POSTECH, CVPR2021, [RealDOF dataset](https://github.com/codeslake/IFAN)<br>
 [NTIRE 2021 challenge for defocus deblurring using dual-pixel images: Methods and results](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Abuolaim_NTIRE_2021_Challenge_for_Defocus_Deblurring_Using_Dual-Pixel_Images_Methods_CVPRW_2021_paper.html?ref=https://githubhelp.com) -CVPR2021, [code](https://aistudio.baidu.com/aistudio/projectdetail/3462083)<br>
+[Contrastive Learning for Compact Single Image Dehazing](https://arxiv.org/abs/2104.09367) -tencent, CVPR2021, [code](https://github.com/GlassyWu/AECR-Net)<br>
 [Towards Flexible Blind JPEG Artifacts Removal](https://arxiv.org/abs/2109.14573) -ICCV2021, [code](https://github.com/jiaxi-jiang/FBCNN)<br>
 [Hinet: Half instance normalization network for image restoration](https://github.com/megvii-model/HINet) -megvii, [code](https://github.com/megvii-model/HINet)<br>
 [Multi-Stage Progressive Image Restoration](https://openaccess.thecvf.com/content/CVPR2021/html/Zamir_Multi-Stage_Progressive_Image_Restoration_CVPR_2021_paper.html) -google, CVPR2021, [code](https://github.com/swz30/MPRNet)<br>
