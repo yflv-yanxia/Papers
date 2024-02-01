@@ -257,6 +257,7 @@
 [MAXIM: Multi-Axis MLP for Image Processing](https://arxiv.org/abs/2201.02973) -google, CVPR2022,[code](https://github.com/google-research/maxim)<br>
 [Towards Efficient and Scale-Robust Ultra-High-Definition Image Demoireing](https://arxiv.org/abs/2207.09935) -TCL, ECCV2022, [database/code](https://xinyu-andy.github.io/uhdm-page/)<br>
 [Global-Local Stepwise Generative Network for Ultra High-Resolution Image Restoration](https://arxiv.org/abs/2207.08808?context=cs) -arxiv2022<br>
+[Breaking down Polyblur: Fast Blind Correction of Small Anisotropic Blurs](https://www.ipol.im/pub/art/2022/405/?utm_source=doi) -google, 2022, [code](https://github.com/teboli/polyblur)<br>
 [Practical Blind Image Denoising via Swin-Conv-UNet and Data Synthesis](https://arxiv.org/abs/2203.13278) -arxiv2022, [code](https://github.com/cszn/SCUNet)<br>
 [Real-esrgan: Training real-world blind super-resolution with pure synthetic data](https://openaccess.thecvf.com/content/ICCV2021W/AIM/html/Wang_Real-ESRGAN_Training_Real-World_Blind_Super-Resolution_With_Pure_Synthetic_Data_ICCVW_2021_paper.html) -tencent, ICCV2021, [code](https://github.com/xinntao/Real-ESRGAN)<br>
 [Edge-oriented Convolution Block for Real-time Super Resolution on Mobile Devices](https://www4.comp.polyu.edu.hk/~cslzhang/paper/MM21_ECBSR.pdf) -alibaba, ACMMM2021[code](https://github.com/xindongzhang/ECBSR)<br>
@@ -279,7 +280,8 @@
 [BEDSR-Net: A Deep Shadow Removal Network From a Single Document Image](https://openaccess.thecvf.com/content_CVPR_2020/html/Lin_BEDSR-Net_A_Deep_Shadow_Removal_Network_From_a_Single_Document_CVPR_2020_paper.html) -CVPR2020, [code](https://github.com/IsHYuhi/BEDSR-Net_A_Deep_Shadow_Removal_Network_from_a_Single_Document_Image)<br>
 [DE-GAN: A Conditional Generative Adversarial Network for Document Enhancement](https://arxiv.org/abs/2010.08764) -PAMI2020, [code](https://github.com/dali92002/DE-GAN)<br>
 [Deblurring by Realistic Blurring](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Deblurring_by_Realistic_Blurring_CVPR_2020_paper.html) -tencent, CVPR2020,[code](https://github.com/HDCVLab/Deblurring-by-Realistic-Blurring)<br>
-[DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better](https://openaccess.thecvf.com/content_ICCV_2019/html/Kupyn_DeblurGAN-v2_Deblurring_Orders-of-Magnitude_Faster_and_Better_ICCV_2019_paper.html) -softserve, ICCV2019, [code](https://github.com/VITA-Group/DeblurGANv2)<>
+[DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better](https://openaccess.thecvf.com/content_ICCV_2019/html/Kupyn_DeblurGAN-v2_Deblurring_Orders-of-Magnitude_Faster_and_Better_ICCV_2019_paper.html) -softserve, ICCV2019, [code](https://github.com/VITA-Group/DeblurGANv2)<br>
+[Deep Bilateral Learning for Real-Time Image Enhancement](https://groups.csail.mit.edu/graphics/hdrnet/data/hdrnet.pdf) -google, Siggraph2017, [code](https://github.com/google/hdrnet)<br>
 
 ## Document Rectification
 [MataDoc: Margin and Text Aware Document Dewarping for Arbitrary Boundary](https://arxiv.org/abs/2307.12571) -baidu, arxiv2023<br>
