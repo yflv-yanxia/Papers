@@ -296,6 +296,7 @@
 [Doctr: Document image transformer for geometric unwarping and illumination correction](https://arxiv.org/abs/2110.12942) -MM2021, [code](https://github.com/fh2019ustc/DocTr)<br>
 [Document Dewarping with Control Points](https://arxiv.org/abs/2203.10543) -ICDAR2021, [code&dataset](https://github.com/gwxie/Document-Dewarping-with-Control-Points)<br>
 [Document Rectification and Illumination Correction using a Patch-based CNN](https://arxiv.org/abs/1909.09470) -SIGGRAPH2019, [code](https://github.com/HCIILAB/DocProj)<br>
+[Learning to Calibrate Straight Lines for Fisheye Image Rectification](https://openaccess.thecvf.com/content_CVPR_2019/html/Xue_Learning_to_Calibrate_Straight_Lines_for_Fisheye_Image_Rectification_CVPR_2019_paper.html) -CVPR2019<br>
 
 ## image alignment/registration
 [DocAligner: Annotating Real-world Photographic Document Images by Simply Taking Pictures](https://arxiv.org/abs/2306.05749) -jinlianwen, arxiv2023, [code](https://github.com/ZZZHANG-jx/DocAligner)<br>
