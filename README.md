@@ -174,6 +174,8 @@
   low-rank/SVD-decomposition/Tucker-decomposition/CP-decomposition<br>
 
 ## InformationExtraction
+  [mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding](https://arxiv.org/abs/2403.12895) -alibaba, [code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5)<br>
+  [mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding](https://arxiv.org/abs/2307.02499) -alibaba, [code](https://github.com/X-PLUG/mPLUG-DocOwl)<br>
   [InstructDoc: A Dataset for Zero-Shot Generalization of Visual Document Understanding with Instructions](https://arxiv.org/abs/2401.13313) -AAAI2024, [code](https://github.com/nttmdlab-nlp/InstructDoc)<br>
   [Unifying Vision, Text, and Layout for Universal Document Processing](https://openaccess.thecvf.com/content/CVPR2023/html/Tang_Unifying_Vision_Text_and_Layout_for_Universal_Document_Processing_CVPR_2023_paper.html) -microsoft, cvpr2023, [code](https://github.com/microsoft/i-Code/tree/main/i-Code-Doc)<br>
   [LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking](https://arxiv.org/abs/2204.08387) -microsoft, arxiv2022, [code](https://github.com/microsoft/unilm/tree/master/layoutlmv3)<br>
