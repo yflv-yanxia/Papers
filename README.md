@@ -183,6 +183,7 @@
   [LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding](https://arxiv.org/abs/2202.13669) -jinlianwen, ACL2022, [code](https://github.com/jpWang/LiLT)<br>
   [XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding](https://arxiv.org/abs/2203.06947) -ant group, CVPR2022<br>
   [BROS: A Pre-trained Language Model Focusing on Text and Layout for Better Key Information Extraction from Documents](https://arxiv.org/abs/2108.04539) -naver, AAAI2022, [code](https://github.com/clovaai/bros)<br>
+  [OCR-free Document Understanding Transformer](https://arxiv.org/abs/2111.15664v5) -NAVER, ECCV2022, [code](https://github.com/clovaai/donut)<br>
   [StructuralLM: Structural Pre-training for Form Understanding](https://arxiv.org/abs/2105.11210) -alibaba, ACL2021<br>
   [UniDoc: Unified Pretraining Framework for Document Understanding](https://proceedings.neurips.cc/paper/2021/hash/0084ae4bc24c0795d1e6a4f58444d39b-Abstract.html) -adobe, NeurIPS2021<br>
   [DocFormer: End-to-End Transformer for Document Understanding](https://openaccess.thecvf.com/content/ICCV2021/html/Appalaraju_DocFormer_End-to-End_Transformer_for_Document_Understanding_ICCV_2021_paper.html) -amazon, ICCV2021<br>
