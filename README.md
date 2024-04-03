@@ -200,6 +200,7 @@
   [READ: Recursive Autoencoders for Document Layout Generation](https://openaccess.thecvf.com/content_CVPRW_2020/html/w34/Patil_READ_Recursive_Autoencoders_for_Document_Layout_Generation_CVPRW_2020_paper.html) -Amazon, CVPRW2020<br>
   [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/abs/1912.13318) -microsoft, KDD2020, [code](https://github.com/microsoft/unilm/tree/master/layoutlm)<br>
   [TRIE: End-to-End Text Reading and Information Extraction for Document Understanding](https://arxiv.org/abs/2005.13118) -hikvision, arxiv2020<br>
+  [Image Generation from Layout](https://arxiv.org/abs/1811.11389) -CVPR2019, [code](https://github.com/zhaobozb/layout2im)<br>
 
 ### database
 [EPHOIE](https://github.com/HCIILAB/EPHOIE) - visual information extraction (VIE) in educational documents<br>
