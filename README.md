@@ -313,6 +313,7 @@
 
 ## image alignment/registration
 [DocAligner: Annotating Real-world Photographic Document Images by Simply Taking Pictures](https://arxiv.org/abs/2306.05749) -jinlianwen, arxiv2023, [code](https://github.com/ZZZHANG-jx/DocAligner)<br>
+[Inv3D: a high-resolution 3D invoice dataset for template-guided single-image document unwarping](https://link.springer.com/article/10.1007/s10032-023-00434-x) -IJDAR2023, [code](https://felixhertlein.github.io/inv3d)<br>
 
 ## Inpainting
 [Inpaint Anything: Segment Anything Meets Image Inpainting](https://arxiv.org/abs/2304.06790) -arxiv2023, [code](https://github.com/geekyutao/Inpaint-Anything)<br>
