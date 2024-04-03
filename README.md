@@ -185,6 +185,7 @@
   [XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding](https://arxiv.org/abs/2203.06947) -ant group, CVPR2022<br>
   [BROS: A Pre-trained Language Model Focusing on Text and Layout for Better Key Information Extraction from Documents](https://arxiv.org/abs/2108.04539) -naver, AAAI2022, [code](https://github.com/clovaai/bros)<br>
   [OCR-free Document Understanding Transformer](https://arxiv.org/abs/2111.15664v5) -NAVER, ECCV2022, [code](https://github.com/clovaai/donut)<br>
+  [Synthetic document generator for annotation-free layout recognition](https://arxiv.org/abs/2111.06016) -2021<br>
   [StructuralLM: Structural Pre-training for Form Understanding](https://arxiv.org/abs/2105.11210) -alibaba, ACL2021<br>
   [Graph-based Deep Generative Modelling for Document Layout Generation](https://arxiv.org/abs/2107.04357) -ICDAR2021<br>
   [DocSynth: A Layout Guided Approach for Controllable Document Image Synthesis](https://arxiv.org/abs/2107.02638) -ICDAR2021, [code](https://github.com/biswassanket/synth_doc_generation)<br>
