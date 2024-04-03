@@ -179,6 +179,7 @@
   [mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding](https://arxiv.org/abs/2307.02499) -alibaba, [code](https://github.com/X-PLUG/mPLUG-DocOwl)<br>
   [InstructDoc: A Dataset for Zero-Shot Generalization of Visual Document Understanding with Instructions](https://arxiv.org/abs/2401.13313) -AAAI2024, [code](https://github.com/nttmdlab-nlp/InstructDoc)<br>
   [Unifying Vision, Text, and Layout for Universal Document Processing](https://openaccess.thecvf.com/content/CVPR2023/html/Tang_Unifying_Vision_Text_and_Layout_for_Universal_Document_Processing_CVPR_2023_paper.html) -microsoft, cvpr2023, [code](https://github.com/microsoft/i-Code/tree/main/i-Code-Doc)<br>
+  [Diffusion-based Document Layout Generation](https://arxiv.org/abs/2303.10787) -2023<br>
   [LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking](https://arxiv.org/abs/2204.08387) -microsoft, arxiv2022, [code](https://github.com/microsoft/unilm/tree/master/layoutlmv3)<br>
   [LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding](https://arxiv.org/abs/2202.13669) -jinlianwen, ACL2022, [code](https://github.com/jpWang/LiLT)<br>
   [XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding](https://arxiv.org/abs/2203.06947) -ant group, CVPR2022<br>
