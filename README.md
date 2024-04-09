@@ -225,6 +225,7 @@
 
 ## Document Enhancement
 [Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild](https://arxiv.org/abs/2401.13627) -xpixel, arxiv2014, [project](https://supir.xpixel.group/), [code](https://github.com/Fanghua-Yu/SUPIR)<br>
+[APISR: Anime Production Inspired Real-World Anime Super-Resolution](https://arxiv.org/abs/2403.01598) -[code](https://github.com/Kiteretsu77/APISR)<br>
 [Focal Network for Image Restoration](https://openaccess.thecvf.com/content/ICCV2023/html/Cui_Focal_Network_for_Image_Restoration_ICCV_2023_paper.html) -ICCV2023, [code](https://github.com/c-yn/FocalNet)<br>
 [PromptIR: Prompting for All-in-One Blind Image Restoration](https://arxiv.org/abs/2306.13090) -[code](https://github.com/va1shn9v/PromptIR)<br>
 [HQ-50K: A Large-scale, High-quality Dataset for Image Restoration](https://arxiv.org/abs/2306.05390) -[code&dataset](https://github.com/littleYaang/HQ-50K)<br>
