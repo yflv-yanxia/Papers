@@ -265,6 +265,7 @@
 [Efficient Long-Range Attention Network for Image Super-Resolution](https://arxiv.org/abs/2203.06697) -[code](https://github.com/xindongzhang/ELAN)<br>
 [Improving Image Restoration by Revisiting Global Information Aggregation](https://link.springer.com/chapter/10.1007/978-3-031-20071-7_4) -megvii, ECCV2022, [code](https://github.com/megvii-research/tlc)<br>
 [NAFSSR: Stereo Image Super-Resolution Using NAFNet](https://arxiv.org/abs/2204.08714) -megvii, CVPR2022, [code](https://github.com/megvii-research/NAFNet)<br>
+[AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos](https://arxiv.org/pdf/2206.07038) -tencent, NeurIPS2022, [code](https://github.com/TencentARC/AnimeSR)<br>
 [Simple baselines for image restoration](https://arxiv.org/abs/2204.04676) -megvii, ECCV2022, [code](https://github.com/megvii-research/NAFNet)<br>
 [Restormer: Efficient Transformer for High-Resolution Image Restoration](https://arxiv.org/abs/2111.09881) -google, CVPR2022, [code](https://github.com/swz30/Restormer)<br>
 [MAXIM: Multi-Axis MLP for Image Processing](https://arxiv.org/abs/2201.02973) -google, CVPR2022,[code](https://github.com/google-research/maxim)<br>
