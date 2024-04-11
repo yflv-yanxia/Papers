@@ -180,6 +180,7 @@
   [InstructDoc: A Dataset for Zero-Shot Generalization of Visual Document Understanding with Instructions](https://arxiv.org/abs/2401.13313) -AAAI2024, [code](https://github.com/nttmdlab-nlp/InstructDoc)<br>
   [Unifying Vision, Text, and Layout for Universal Document Processing](https://openaccess.thecvf.com/content/CVPR2023/html/Tang_Unifying_Vision_Text_and_Layout_for_Universal_Document_Processing_CVPR_2023_paper.html) -microsoft, cvpr2023, [code](https://github.com/microsoft/i-Code/tree/main/i-Code-Doc)<br>
   [Diffusion-based Document Layout Generation](https://arxiv.org/abs/2303.10787) -2023<br>
+  [Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models](https://arxiv.org/abs/2312.06109) -megvii, arxiv2023, [code](https://github.com/Ucas-HaoranWei/Vary)<br>
   [CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914) -tsinghua, arxiv2023, [code](github.com/THUDM/CogVLM)<br>
   [LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking](https://arxiv.org/abs/2204.08387) -microsoft, arxiv2022, [code](https://github.com/microsoft/unilm/tree/master/layoutlmv3)<br>
   [LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding](https://arxiv.org/abs/2202.13669) -jinlianwen, ACL2022, [code](https://github.com/jpWang/LiLT)<br>
