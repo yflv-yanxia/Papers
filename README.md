@@ -174,6 +174,7 @@
   low-rank/SVD-decomposition/Tucker-decomposition/CP-decomposition<br>
 
 ## InformationExtraction
+  [OmniParser: A Unified Framework for Text Spotting, Key Information Extraction and Table Recognition](https://arxiv.org/abs/2403.19128) -alibaba, cvpr2024, [code](https://github.com/AlibabaResearch/AdvancedLiterateMachinery)<br>
   [mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding](https://arxiv.org/abs/2403.12895) -alibaba, [code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5)<br>
   [DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding](https://arxiv.org/abs/2311.11810) -bytedance<br>
   [mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding](https://arxiv.org/abs/2307.02499) -alibaba, [code](https://github.com/X-PLUG/mPLUG-DocOwl)<br>
