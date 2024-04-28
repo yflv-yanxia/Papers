@@ -184,6 +184,7 @@
   [Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models](https://arxiv.org/abs/2312.06109) -megvii, arxiv2023, [code](https://github.com/Ucas-HaoranWei/Vary)<br>
   [CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914) -tsinghua, arxiv2023, [code](github.com/THUDM/CogVLM)<br>
   [Blip-2: Bootstrapping language-image pre-training with frozen image encoders and large language models](https://proceedings.mlr.press/v202/li23q.html) -Salesforce, ICML2023, [code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)<br>
+  [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086) -Salesforce, arxiv2022, [code](https://github.com/salesforce/BLIP)<br>
   [LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking](https://arxiv.org/abs/2204.08387) -microsoft, arxiv2022, [code](https://github.com/microsoft/unilm/tree/master/layoutlmv3)<br>
   [LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding](https://arxiv.org/abs/2202.13669) -jinlianwen, ACL2022, [code](https://github.com/jpWang/LiLT)<br>
   [XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding](https://arxiv.org/abs/2203.06947) -ant group, CVPR2022<br>
