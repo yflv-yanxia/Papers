@@ -181,6 +181,7 @@
   [InstructDoc: A Dataset for Zero-Shot Generalization of Visual Document Understanding with Instructions](https://arxiv.org/abs/2401.13313) -AAAI2024, [code](https://github.com/nttmdlab-nlp/InstructDoc)<br>
   [Unifying Vision, Text, and Layout for Universal Document Processing](https://openaccess.thecvf.com/content/CVPR2023/html/Tang_Unifying_Vision_Text_and_Layout_for_Universal_Document_Processing_CVPR_2023_paper.html) -microsoft, cvpr2023, [code](https://github.com/microsoft/i-Code/tree/main/i-Code-Doc)<br>
   [Diffusion-based Document Layout Generation](https://arxiv.org/abs/2303.10787) -2023<br>
+  [Unidoc: A universal large multimodal model for simultaneous text detection, recognition, spotting and understanding](https://arxiv.org/abs/2308.11592) -bytedance, arxiv2023<br>
   [Llavar: Enhanced visual instruction tuning for text-rich image understanding](https://arxiv.org/abs/2306.17107) -adobe, arxiv2023, [code](https://llavar.github.io/)<br>
   [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/abs/2304.10592) -[code](https://minigpt-4.github.io/)<br>
   [Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models](https://arxiv.org/abs/2312.06109) -megvii, arxiv2023, [code](https://github.com/Ucas-HaoranWei/Vary)<br>
