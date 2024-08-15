@@ -1,4 +1,6 @@
 # Papers
+## depth estimation 
+  [AdaBins: Depth Estimation using Adaptive Bins](https://arxiv.org/abs/2011.14141) kaust, CVPR2021, [code](https://github.com/shariqfarooq123/AdaBins)<br>
 ## layout
   [M6Doc: A Large-Scale Multi-Format, Multi-Type, Multi-Layout, Multi-Language, Multi-Annotation Category Dataset for Modern Document Layout Analysis](https://openaccess.thecvf.com/content/CVPR2023/html/Cheng_M6Doc_A_Large-Scale_Multi-Format_Multi-Type_Multi-Layout_Multi-Language_Multi-Annotation_Category_Dataset_CVPR_2023_paper.html) -jinlianwen, CVPR2023, [dataset](https://github.com/HCIILAB/M6Doc)<br>
   [Page segmentation using convolutional neural network and graphical model](https://link.springer.com/chapter/10.1007/978-3-030-57058-3_17) -Lixiaohui, DAS2020<br>
