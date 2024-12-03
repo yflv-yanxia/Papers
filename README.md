@@ -4,6 +4,7 @@
 ## layout
   [DocLayout-YOLO: Enhancing Document Layout Analysis through Diverse Synthetic Data and Global-to-Local Adaptive Perception](https://arxiv.org/abs/2410.12628) -shanghaiAILab, arxiv2024, [code](https://github.com/opendatalab/DocLayout-YOLO)<br>
   [M6Doc: A Large-Scale Multi-Format, Multi-Type, Multi-Layout, Multi-Language, Multi-Annotation Category Dataset for Modern Document Layout Analysis](https://openaccess.thecvf.com/content/CVPR2023/html/Cheng_M6Doc_A_Large-Scale_Multi-Format_Multi-Type_Multi-Layout_Multi-Language_Multi-Annotation_Category_Dataset_CVPR_2023_paper.html) -jinlianwen, CVPR2023, [dataset](https://github.com/HCIILAB/M6Doc)<br>
+  [Vision Grid Transformer for Document Layout Analysis](https://openaccess.thecvf.com/content/ICCV2023/html/Da_Vision_Grid_Transformer_for_Document_Layout_Analysis_ICCV_2023_paper.html) -Alibaba, ICCV2023, [code](https://github.com/AlibabaResearch/AdvancedLiterateMachinery)<br> 
   [Page segmentation using convolutional neural network and graphical model](https://link.springer.com/chapter/10.1007/978-3-030-57058-3_17) -Lixiaohui, DAS2020<br>
   [Printed/Handwritten Texts and Graphics Separation in Complex Documents Using Conditional Random Fields](https://ieeexplore.ieee.org/abstract/document/8395186) -LiXiaohui, DAS2018<br> 
 
