@@ -41,6 +41,7 @@
   [Deepdesrt: Deep learning for detection and structure recognition of tables in document images](https://ieeexplore.ieee.org/abstract/document/8270123) -ICDAR2017<br>
   
 ## mathematical expression recognition
+  [UniMERNet: A Universal Network for Real-World Mathematical Expression Recognition](https://arxiv.org/abs/2404.15254v1) -ailab, arxiv2024, [code&dataset](https://github.com/opendatalab/UniMERNet)<br>
   [MathWriting: A Dataset For Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2404.10690) -google, arxiv2024<br>
   [CCLSL: Combination of Contrastive Learning and Supervised Learning for Handwritten Mathematical Expression Recognition](https://openaccess.thecvf.com/content/ACCV2022/html/Lin_CCLSL_Combination_of_Contrastive_Learning_and_Supervised_Learning_for_Handwritten_ACCV_2022_paper.html) -ACCV2022<br>
   [Primitive Contrastive Learning for Handwritten Mathematical Expression Recognition](https://ieeexplore.ieee.org/abstract/document/9956214) -liuchenglin, ICPR2022<br>
